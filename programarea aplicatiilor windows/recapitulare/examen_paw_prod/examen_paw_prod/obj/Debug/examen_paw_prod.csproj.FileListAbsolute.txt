@@ -1,0 +1,11 @@
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_prod\examen_paw_prod\obj\Debug\examen_paw_prod.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_prod\examen_paw_prod\obj\Debug\examen_paw_prod.FormAddEdit.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_prod\examen_paw_prod\obj\Debug\examen_paw_prod.MainForm.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_prod\examen_paw_prod\obj\Debug\examen_paw_prod.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_prod\examen_paw_prod\obj\Debug\examen_paw_prod.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_prod\examen_paw_prod\obj\Debug\examen_paw_prod.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_prod\examen_paw_prod\bin\Debug\examen_paw_prod.exe.config
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_prod\examen_paw_prod\bin\Debug\examen_paw_prod.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_prod\examen_paw_prod\bin\Debug\examen_paw_prod.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_prod\examen_paw_prod\obj\Debug\examen_paw_prod.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_prod\examen_paw_prod\obj\Debug\examen_paw_prod.pdb

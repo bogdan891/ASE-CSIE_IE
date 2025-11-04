@@ -1,0 +1,24 @@
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\bin\Debug\CosCumparaturi.exe.config
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\bin\Debug\CosCumparaturi.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\bin\Debug\CosCumparaturi.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\obj\Debug\CosCumparaturi.csproj.AssemblyReference.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\obj\Debug\CosCumparaturi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\obj\Debug\CosCumparaturi.Form1.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\obj\Debug\CosCumparaturi.Properties.Resources.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\obj\Debug\CosCumparaturi.csproj.GenerateResource.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\obj\Debug\CosCumparaturi.csproj.CoreCompileInputs.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\obj\Debug\CosCumparaturi.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\obj\Debug\CosCumparaturi.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\CosCumparaturi\obj\Debug\CosCumparaturi.AdaugaProdu.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\bin\Debug\CosCumparaturi.exe.config
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\bin\Debug\CosCumparaturi.exe
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\bin\Debug\CosCumparaturi.pdb
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\obj\Debug\CosCumparaturi.csproj.AssemblyReference.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\obj\Debug\CosCumparaturi.csproj.SuggestedBindingRedirects.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\obj\Debug\CosCumparaturi.AdaugaProdu.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\obj\Debug\CosCumparaturi.Form1.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\obj\Debug\CosCumparaturi.Properties.Resources.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\obj\Debug\CosCumparaturi.csproj.GenerateResource.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\obj\Debug\CosCumparaturi.csproj.CoreCompileInputs.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\obj\Debug\CosCumparaturi.exe
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\CosCumparaturi\obj\Debug\CosCumparaturi.pdb

@@ -1,0 +1,2 @@
+water_in:11.0;water_out:7.0;recycled:20.0;garbage:8.0;shared_electricity:25.0
+water_in:31.0;water_out:12.0;recycled:28.0;garbage:14.0;shared_electricity:25.0

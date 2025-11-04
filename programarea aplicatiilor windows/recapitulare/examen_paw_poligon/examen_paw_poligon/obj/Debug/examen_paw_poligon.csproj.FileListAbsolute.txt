@@ -1,0 +1,11 @@
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_poligon\examen_paw_poligon\bin\Debug\examen_paw_poligon.exe.config
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_poligon\examen_paw_poligon\bin\Debug\examen_paw_poligon.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_poligon\examen_paw_poligon\bin\Debug\examen_paw_poligon.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_poligon\examen_paw_poligon\obj\Debug\examen_paw_poligon.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_poligon\examen_paw_poligon\obj\Debug\examen_paw_poligon.MainForm.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_poligon\examen_paw_poligon\obj\Debug\examen_paw_poligon.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_poligon\examen_paw_poligon\obj\Debug\examen_paw_poligon.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_poligon\examen_paw_poligon\obj\Debug\examen_paw_poligon.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_poligon\examen_paw_poligon\obj\Debug\examen_paw_poligon.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_poligon\examen_paw_poligon\obj\Debug\examen_paw_poligon.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_poligon\examen_paw_poligon\obj\Debug\examen_paw_poligon.FormAddEdit.resources

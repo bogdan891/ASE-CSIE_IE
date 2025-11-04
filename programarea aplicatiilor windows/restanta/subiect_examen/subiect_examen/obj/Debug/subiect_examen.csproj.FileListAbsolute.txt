@@ -1,0 +1,10 @@
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\subiect_examen\subiect_examen\bin\Debug\subiect_examen.exe.config
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\subiect_examen\subiect_examen\bin\Debug\subiect_examen.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\subiect_examen\subiect_examen\bin\Debug\subiect_examen.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\subiect_examen\subiect_examen\obj\Debug\subiect_examen.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\subiect_examen\subiect_examen\obj\Debug\subiect_examen.MainForm.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\subiect_examen\subiect_examen\obj\Debug\subiect_examen.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\subiect_examen\subiect_examen\obj\Debug\subiect_examen.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\subiect_examen\subiect_examen\obj\Debug\subiect_examen.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\subiect_examen\subiect_examen\obj\Debug\subiect_examen.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\subiect_examen\subiect_examen\obj\Debug\subiect_examen.pdb

@@ -1,0 +1,7 @@
+D:\ASE\2023-2024\PAW\Seminar 3 - Delegati, actiuni, evenimente\Seminar3\Seminar3\bin\Debug\Seminar3.exe.config
+D:\ASE\2023-2024\PAW\Seminar 3 - Delegati, actiuni, evenimente\Seminar3\Seminar3\bin\Debug\Seminar3.exe
+D:\ASE\2023-2024\PAW\Seminar 3 - Delegati, actiuni, evenimente\Seminar3\Seminar3\bin\Debug\Seminar3.pdb
+D:\ASE\2023-2024\PAW\Seminar 3 - Delegati, actiuni, evenimente\Seminar3\Seminar3\obj\Debug\Seminar3.csproj.AssemblyReference.cache
+D:\ASE\2023-2024\PAW\Seminar 3 - Delegati, actiuni, evenimente\Seminar3\Seminar3\obj\Debug\Seminar3.csproj.CoreCompileInputs.cache
+D:\ASE\2023-2024\PAW\Seminar 3 - Delegati, actiuni, evenimente\Seminar3\Seminar3\obj\Debug\Seminar3.exe
+D:\ASE\2023-2024\PAW\Seminar 3 - Delegati, actiuni, evenimente\Seminar3\Seminar3\obj\Debug\Seminar3.pdb

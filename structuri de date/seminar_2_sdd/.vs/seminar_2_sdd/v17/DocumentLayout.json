@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE\u00ACCSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\seminar_2_sdd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE628EB-30EE-4407-9921-77E104589E32}|seminar_2_sdd\\seminar_2_sdd.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE\u00ACCSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\seminar_2_sdd\\seminar_2_sdd\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CE628EB-30EE-4407-9921-77E104589E32}|seminar_2_sdd\\seminar_2_sdd.vcxproj|solutionrelative:seminar_2_sdd\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE628EB-30EE-4407-9921-77E104589E32}|seminar_2_sdd\\seminar_2_sdd.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE\u00ACCSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\seminar_2_sdd\\seminar_2_sdd\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7CE628EB-30EE-4407-9921-77E104589E32}|seminar_2_sdd\\seminar_2_sdd.vcxproj|solutionrelative:seminar_2_sdd\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file.txt",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE\u00ACCSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\seminar_2_sdd\\seminar_2_sdd\\file.txt",
+              "RelativeDocumentMoniker": "seminar_2_sdd\\file.txt",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE\u00ACCSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\seminar_2_sdd\\seminar_2_sdd\\file.txt",
+              "RelativeToolTip": "seminar_2_sdd\\file.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-03T14:58:09.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE\u00ACCSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\seminar_2_sdd\\seminar_2_sdd\\main.c",
+              "RelativeDocumentMoniker": "seminar_2_sdd\\main.c",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE\u00ACCSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\seminar_2_sdd\\seminar_2_sdd\\main.c",
+              "RelativeToolTip": "seminar_2_sdd\\main.c",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-03T14:37:14.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\recapitulare_bst_maxheap\recapitulare_bst_maxheap\main.c(213,13): warning C4047: 'initializing': 'Tren *' differs in levels of indirection from 'int'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\recapitulare_bst_maxheap\recapitulare_bst_maxheap\main.c(213,13): warning C4047: 'initializing': 'int' differs in levels of indirection from 'Tren *'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\recapitulare_bst_maxheap\recapitulare_bst_maxheap\main.c(136,1): warning C4715: 'cautareTrenInArbore': not all control paths return a value
+  recapitulare_bst_maxheap.vcxproj -> C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\recapitulare_bst_maxheap\x64\Debug\recapitulare_bst_maxheap.exe

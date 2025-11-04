@@ -1,0 +1,15 @@
+Bucharest
+Budapest
+654.34
+11
+Yes
+Bucharest
+Vienna
+854.38
+15
+Yes
+Bucharest
+Pitesti
+108
+5
+No

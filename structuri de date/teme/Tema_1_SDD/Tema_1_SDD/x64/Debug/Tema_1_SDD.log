@@ -1,0 +1,6 @@
+﻿  1056_Georgescu_Ionut_Bogdan_tema1.c
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_1_SDD\Tema_1_SDD\1056_Georgescu_Ionut_Bogdan_tema1.c(96,3): warning C4033: 'citireInginer' must return a value
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_1_SDD\Tema_1_SDD\1056_Georgescu_Ionut_Bogdan_tema1.c(124,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_1_SDD\Tema_1_SDD\1056_Georgescu_Ionut_Bogdan_tema1.c(143,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_1_SDD\Tema_1_SDD\1056_Georgescu_Ionut_Bogdan_tema1.c(147,1): warning C4715: 'citireInginer': not all control paths return a value
+  Tema_1_SDD.vcxproj -> C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_1_SDD\x64\Debug\Tema_1_SDD.exe

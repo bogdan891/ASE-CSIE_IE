@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_6_sdd\seminar_6_sdd\main.c(56,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_6_sdd\seminar_6_sdd\main.c(114,10): warning C4013: 'hash' undefined; assuming extern returning int
+  seminar_6_sdd.vcxproj -> C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_6_sdd\x64\Debug\seminar_6_sdd.exe

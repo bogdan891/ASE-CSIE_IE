@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_3_SDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3BC3EF-1B01-41B2-AB73-8F3F7D5C675D}|Tema_3_SDD\\Tema_3_SDD.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_3_SDD\\Tema_3_SDD\\1056_Georgescu_Ionut_Bogdan_tema3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC3BC3EF-1B01-41B2-AB73-8F3F7D5C675D}|Tema_3_SDD\\Tema_3_SDD.vcxproj|solutionrelative:Tema_3_SDD\\1056_Georgescu_Ionut_Bogdan_tema3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3BC3EF-1B01-41B2-AB73-8F3F7D5C675D}|Tema_3_SDD\\Tema_3_SDD.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_3_SDD\\Tema_3_SDD\\games.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC3BC3EF-1B01-41B2-AB73-8F3F7D5C675D}|Tema_3_SDD\\Tema_3_SDD.vcxproj|solutionrelative:Tema_3_SDD\\games.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "games.txt",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_3_SDD\\Tema_3_SDD\\games.txt",
+              "RelativeDocumentMoniker": "Tema_3_SDD\\games.txt",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_3_SDD\\Tema_3_SDD\\games.txt",
+              "RelativeToolTip": "Tema_3_SDD\\games.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-10T14:47:45.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1056_Georgescu_Ionut_Bogdan_tema3.c",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_3_SDD\\Tema_3_SDD\\1056_Georgescu_Ionut_Bogdan_tema3.c",
+              "RelativeDocumentMoniker": "Tema_3_SDD\\1056_Georgescu_Ionut_Bogdan_tema3.c",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_3_SDD\\Tema_3_SDD\\1056_Georgescu_Ionut_Bogdan_tema3.c",
+              "RelativeToolTip": "Tema_3_SDD\\1056_Georgescu_Ionut_Bogdan_tema3.c",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAP8BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-10T14:00:48.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

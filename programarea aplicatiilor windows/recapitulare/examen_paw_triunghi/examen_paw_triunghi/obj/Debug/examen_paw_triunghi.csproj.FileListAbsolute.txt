@@ -1,0 +1,13 @@
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\bin\Debug\examen_paw_triunghi.exe.config
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\bin\Debug\examen_paw_triunghi.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\bin\Debug\examen_paw_triunghi.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\obj\Debug\examen_paw_triunghi.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\obj\Debug\examen_paw_triunghi.FormAfisare.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\obj\Debug\examen_paw_triunghi.FormPrincipal.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\obj\Debug\examen_paw_triunghi.FormTextDisplay.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\obj\Debug\examen_paw_triunghi.FormTriunghi.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\obj\Debug\examen_paw_triunghi.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\obj\Debug\examen_paw_triunghi.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\obj\Debug\examen_paw_triunghi.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\obj\Debug\examen_paw_triunghi.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_triunghi\examen_paw_triunghi\obj\Debug\examen_paw_triunghi.pdb

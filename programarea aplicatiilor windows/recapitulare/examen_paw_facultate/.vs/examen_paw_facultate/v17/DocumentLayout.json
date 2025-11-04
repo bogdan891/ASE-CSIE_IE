@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA19DD1-1531-4F80-893C-1A043C997031}|examen_paw_facultate\\examen_paw_facultate.csproj|c:\\users\\bogda\\onedrive\\desktop\\ase-csie\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA19DD1-1531-4F80-893C-1A043C997031}|examen_paw_facultate\\examen_paw_facultate.csproj|solutionrelative:examen_paw_facultate\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA19DD1-1531-4F80-893C-1A043C997031}|examen_paw_facultate\\examen_paw_facultate.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA19DD1-1531-4F80-893C-1A043C997031}|examen_paw_facultate\\examen_paw_facultate.csproj|solutionrelative:examen_paw_facultate\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA19DD1-1531-4F80-893C-1A043C997031}|examen_paw_facultate\\examen_paw_facultate.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA19DD1-1531-4F80-893C-1A043C997031}|examen_paw_facultate\\examen_paw_facultate.csproj|solutionrelative:examen_paw_facultate\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA19DD1-1531-4F80-893C-1A043C997031}|examen_paw_facultate\\examen_paw_facultate.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\editaremedie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA19DD1-1531-4F80-893C-1A043C997031}|examen_paw_facultate\\examen_paw_facultate.csproj|solutionrelative:examen_paw_facultate\\editaremedie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA19DD1-1531-4F80-893C-1A043C997031}|examen_paw_facultate\\examen_paw_facultate.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\editaremedie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA19DD1-1531-4F80-893C-1A043C997031}|examen_paw_facultate\\examen_paw_facultate.csproj|solutionrelative:examen_paw_facultate\\editaremedie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditareMedie.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\EditareMedie.cs",
+              "RelativeDocumentMoniker": "examen_paw_facultate\\EditareMedie.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\EditareMedie.cs [Design]",
+              "RelativeToolTip": "examen_paw_facultate\\EditareMedie.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:37:16.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditareMedie.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\EditareMedie.cs",
+              "RelativeDocumentMoniker": "examen_paw_facultate\\EditareMedie.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\EditareMedie.cs",
+              "RelativeToolTip": "examen_paw_facultate\\EditareMedie.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:29:57.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\MainForm.cs",
+              "RelativeDocumentMoniker": "examen_paw_facultate\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\MainForm.cs",
+              "RelativeToolTip": "examen_paw_facultate\\MainForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:50:50.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\Student.cs",
+              "RelativeDocumentMoniker": "examen_paw_facultate\\Student.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\Student.cs",
+              "RelativeToolTip": "examen_paw_facultate\\Student.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:37:56.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\MainForm.cs",
+              "RelativeDocumentMoniker": "examen_paw_facultate\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\examen_paw_facultate\\examen_paw_facultate\\MainForm.cs [Design]",
+              "RelativeToolTip": "examen_paw_facultate\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:37:23.34Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

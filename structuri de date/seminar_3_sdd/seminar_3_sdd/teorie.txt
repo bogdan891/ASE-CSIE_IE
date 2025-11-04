@@ -1,0 +1,43 @@
+------------------------------------------------------------------------------------------------------					
+						
+										LISTA SIMPLU INLANTUITA
+
+------------------------------------------------------------------------------------------------------
+
+Caracteristici:
+-> este formata din noduri;
+-> primul nod se numeste "Cap";
+-> un nod este format din informatia utila (elementul respectiv) si adresa urmatorului nod (next);
+-> ultimul nod are in a2a componenta adresa NULL;
+-> Functii: INSERT, AFISARE, DELETE, SEARCH;
+-> INSERT: la inceput, la sfarsit, in interiorul listei;
+
+------------------------------------------------------------------------------------------------------
+
+INSERARE LA INCEPUT:
+-> se aloca memorie pentru noul element;
+-> se deplaseaza elementele listei;
+-> noul nod devine capul listei;
+
+------------------------------------------------------------------------------------------------------
+
+(!) In void nu se poate face transmiterea prin valoare (!)
+
+------------------------------------------------------------------------------------------------------
+
+INSERARE LA SFARSIT:
+-> se aloca memorie pentru noul element;
+-> ultimul nod din lista initiala va pointa catre noul nod;
+-> noul nod devine ultimul nod al listei, iar acesta va pointa catre NULL;
+
+------------------------------------------------------------------------------------------------------
+
+DEZALOCARE:
+-> se dezaloca toate atributele alocate dinamic - informatia utila;
+-> se dezaloca si capul in sine;
+
+(!) 
+	Nu scriem direct "free((*cap));" pentru ca vom pierde accesul catre celelalte elemente.
+	Mai intai cream o copie a lui cap si scriem "free(copie);" "*cap = (*cap)->next;"
+
+------------------------------------------------------------------------------------------------------

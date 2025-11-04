@@ -1,0 +1,11 @@
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_registration\model_registration\bin\Debug\model_registration.exe.config
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_registration\model_registration\bin\Debug\model_registration.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_registration\model_registration\bin\Debug\model_registration.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_registration\model_registration\obj\Debug\model_registration.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_registration\model_registration\obj\Debug\model_registration.MainForm.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_registration\model_registration\obj\Debug\model_registration.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_registration\model_registration\obj\Debug\model_registration.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_registration\model_registration\obj\Debug\model_registration.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_registration\model_registration\obj\Debug\model_registration.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_registration\model_registration\obj\Debug\model_registration.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_registration\model_registration\obj\Debug\model_registration.AddRegForm.resources

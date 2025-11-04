@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33CA52-C462-4DBD-9696-56002236C527}|model_registration\\model_registration.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33CA52-C462-4DBD-9696-56002236C527}|model_registration\\model_registration.csproj|solutionrelative:model_registration\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33CA52-C462-4DBD-9696-56002236C527}|model_registration\\model_registration.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A33CA52-C462-4DBD-9696-56002236C527}|model_registration\\model_registration.csproj|solutionrelative:model_registration\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33CA52-C462-4DBD-9696-56002236C527}|model_registration\\model_registration.csproj|c:\\users\\bogda\\onedrive\\desktop\\ase-csie\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\accesspackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33CA52-C462-4DBD-9696-56002236C527}|model_registration\\model_registration.csproj|solutionrelative:model_registration\\accesspackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33CA52-C462-4DBD-9696-56002236C527}|model_registration\\model_registration.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33CA52-C462-4DBD-9696-56002236C527}|model_registration\\model_registration.csproj|solutionrelative:model_registration\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33CA52-C462-4DBD-9696-56002236C527}|model_registration\\model_registration.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\addregform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33CA52-C462-4DBD-9696-56002236C527}|model_registration\\model_registration.csproj|solutionrelative:model_registration\\addregform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddRegForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\AddRegForm.cs",
+              "RelativeDocumentMoniker": "model_registration\\AddRegForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\AddRegForm.cs",
+              "RelativeToolTip": "model_registration\\AddRegForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:39:22.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\MainForm.cs",
+              "RelativeDocumentMoniker": "model_registration\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\MainForm.cs",
+              "RelativeToolTip": "model_registration\\MainForm.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAiwBcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:54:09.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\Registration.cs",
+              "RelativeDocumentMoniker": "model_registration\\Registration.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\Registration.cs",
+              "RelativeToolTip": "model_registration\\Registration.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:51:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessPackage.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\AccessPackage.cs",
+              "RelativeDocumentMoniker": "model_registration\\AccessPackage.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\AccessPackage.cs",
+              "RelativeToolTip": "model_registration\\AccessPackage.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:48:55.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\MainForm.cs",
+              "RelativeDocumentMoniker": "model_registration\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_registration\\model_registration\\MainForm.cs [Design]",
+              "RelativeToolTip": "model_registration\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:48:22.64Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

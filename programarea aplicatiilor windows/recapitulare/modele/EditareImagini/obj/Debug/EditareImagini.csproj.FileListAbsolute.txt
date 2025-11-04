@@ -1,0 +1,38 @@
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\bin\Debug\EditareImagini.exe.config
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\bin\Debug\EditareImagini.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\bin\Debug\EditareImagini.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\obj\Debug\EditareImagini.csproj.AssemblyReference.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\obj\Debug\EditareImagini.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\obj\Debug\EditareImagini.AdaugaPoligon.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\obj\Debug\EditareImagini.Form1.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\obj\Debug\EditareImagini.Properties.Resources.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\obj\Debug\EditareImagini.csproj.GenerateResource.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\obj\Debug\EditareImagini.csproj.CoreCompileInputs.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\obj\Debug\EditareImagini.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\obj\Debug\EditareImagini.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\EditareImagini\obj\Debug\EditareImagini.GraficForm.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\bin\Debug\EditareImagini.exe.config
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\bin\Debug\EditareImagini.exe
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\bin\Debug\EditareImagini.pdb
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\obj\Debug\EditareImagini.csproj.AssemblyReference.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\obj\Debug\EditareImagini.csproj.SuggestedBindingRedirects.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\obj\Debug\EditareImagini.AdaugaPoligon.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\obj\Debug\EditareImagini.Form1.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\obj\Debug\EditareImagini.GraficForm.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\obj\Debug\EditareImagini.Properties.Resources.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\obj\Debug\EditareImagini.csproj.GenerateResource.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\obj\Debug\EditareImagini.csproj.CoreCompileInputs.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\obj\Debug\EditareImagini.exe
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\EditareImagini\obj\Debug\EditareImagini.pdb
+C:\Users\bogda\Downloads\EditareImagini\bin\Debug\EditareImagini.exe.config
+C:\Users\bogda\Downloads\EditareImagini\bin\Debug\EditareImagini.exe
+C:\Users\bogda\Downloads\EditareImagini\bin\Debug\EditareImagini.pdb
+C:\Users\bogda\Downloads\EditareImagini\obj\Debug\EditareImagini.csproj.AssemblyReference.cache
+C:\Users\bogda\Downloads\EditareImagini\obj\Debug\EditareImagini.AdaugaPoligon.resources
+C:\Users\bogda\Downloads\EditareImagini\obj\Debug\EditareImagini.Form1.resources
+C:\Users\bogda\Downloads\EditareImagini\obj\Debug\EditareImagini.GraficForm.resources
+C:\Users\bogda\Downloads\EditareImagini\obj\Debug\EditareImagini.Properties.Resources.resources
+C:\Users\bogda\Downloads\EditareImagini\obj\Debug\EditareImagini.csproj.GenerateResource.cache
+C:\Users\bogda\Downloads\EditareImagini\obj\Debug\EditareImagini.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Downloads\EditareImagini\obj\Debug\EditareImagini.exe
+C:\Users\bogda\Downloads\EditareImagini\obj\Debug\EditareImagini.pdb

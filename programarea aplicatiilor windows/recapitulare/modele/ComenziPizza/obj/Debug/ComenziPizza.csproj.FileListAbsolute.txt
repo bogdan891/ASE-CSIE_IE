@@ -1,0 +1,26 @@
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\bin\Debug\ComenziPizza.exe.config
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\bin\Debug\ComenziPizza.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\bin\Debug\ComenziPizza.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\obj\Debug\ComenziPizza.csproj.AssemblyReference.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\obj\Debug\ComenziPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\obj\Debug\ComenziPizza.Form1.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\obj\Debug\ComenziPizza.Properties.Resources.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\obj\Debug\ComenziPizza.csproj.GenerateResource.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\obj\Debug\ComenziPizza.csproj.CoreCompileInputs.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\obj\Debug\ComenziPizza.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\obj\Debug\ComenziPizza.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\obj\Debug\ComenziPizza.Form2.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ComenziPizza\obj\Debug\ComenziPizza.FormToppinguri.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\bin\Debug\ComenziPizza.exe.config
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\bin\Debug\ComenziPizza.exe
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\bin\Debug\ComenziPizza.pdb
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\obj\Debug\ComenziPizza.csproj.AssemblyReference.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\obj\Debug\ComenziPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\obj\Debug\ComenziPizza.Form1.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\obj\Debug\ComenziPizza.Form2.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\obj\Debug\ComenziPizza.FormToppinguri.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\obj\Debug\ComenziPizza.Properties.Resources.resources
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\obj\Debug\ComenziPizza.csproj.GenerateResource.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\obj\Debug\ComenziPizza.csproj.CoreCompileInputs.cache
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\obj\Debug\ComenziPizza.exe
+C:\Users\anuzz\Downloads\Exercitii pentru EXAMEN PAW - Tarbă Sabin\Exercitii pentru EXAMEN - Tarbă Sabin\ComenziPizza\obj\Debug\ComenziPizza.pdb

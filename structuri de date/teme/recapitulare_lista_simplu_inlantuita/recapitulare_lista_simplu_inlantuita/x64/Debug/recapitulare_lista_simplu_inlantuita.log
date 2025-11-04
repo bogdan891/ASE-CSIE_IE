@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\bogda\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\recapitulare_lista_simplu_inlantuita\recapitulare_lista_simplu_inlantuita\main.c(133,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogda\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\recapitulare_lista_simplu_inlantuita\recapitulare_lista_simplu_inlantuita\main.c(299,3): warning C4033: 'returnElement' must return a value
+C:\Users\bogda\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\recapitulare_lista_simplu_inlantuita\recapitulare_lista_simplu_inlantuita\main.c(346,59): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\recapitulare_lista_simplu_inlantuita\recapitulare_lista_simplu_inlantuita\main.c(313,1): warning C4715: 'returnElement': not all control paths return a value
+  recapitulare_lista_simplu_inlantuita.vcxproj -> C:\Users\bogda\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\recapitulare_lista_simplu_inlantuita\x64\Debug\recapitulare_lista_simplu_inlantuita.exe

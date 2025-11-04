@@ -1,0 +1,7 @@
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\seminar\seminar_3_paw\seminar_3_paw\bin\Debug\seminar_3_paw.exe.config
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\seminar\seminar_3_paw\seminar_3_paw\bin\Debug\seminar_3_paw.exe
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\seminar\seminar_3_paw\seminar_3_paw\bin\Debug\seminar_3_paw.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\seminar\seminar_3_paw\seminar_3_paw\obj\Debug\seminar_3_paw.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\seminar\seminar_3_paw\seminar_3_paw\obj\Debug\seminar_3_paw.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\seminar\seminar_3_paw\seminar_3_paw\obj\Debug\seminar_3_paw.exe
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\seminar\seminar_3_paw\seminar_3_paw\obj\Debug\seminar_3_paw.pdb

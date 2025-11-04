@@ -1,0 +1,10 @@
+﻿  1056_Georgescu_Ionut_Bogdan_tema5.c
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_5_SDD\Tema_5_SDD\1056_Georgescu_Ionut_Bogdan_tema5.c(162,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_5_SDD\Tema_5_SDD\1056_Georgescu_Ionut_Bogdan_tema5.c(230,25): warning C4133: 'function': incompatible types - from 'MainNode **' to 'SecondaryNode **'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_5_SDD\Tema_5_SDD\1056_Georgescu_Ionut_Bogdan_tema5.c(231,25): warning C4133: 'function': incompatible types - from 'MainNode **' to 'SecondaryNode **'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_5_SDD\Tema_5_SDD\1056_Georgescu_Ionut_Bogdan_tema5.c(241,3): warning C4033: 'readPhoneTree' must return a value
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_5_SDD\Tema_5_SDD\1056_Georgescu_Ionut_Bogdan_tema5.c(259,18): warning C4133: 'initializing': incompatible types - from 'MainNode *' to 'SecondaryNode *'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_5_SDD\Tema_5_SDD\1056_Georgescu_Ionut_Bogdan_tema5.c(425,18): warning C4133: 'initializing': incompatible types - from 'MainNode *' to 'SecondaryNode *'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_5_SDD\Tema_5_SDD\1056_Georgescu_Ionut_Bogdan_tema5.c(450,18): warning C4133: 'initializing': incompatible types - from 'MainNode *' to 'SecondaryNode *'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_5_SDD\Tema_5_SDD\1056_Georgescu_Ionut_Bogdan_tema5.c(254,1): warning C4715: 'readPhoneTree': not all control paths return a value
+  Tema_5_SDD.vcxproj -> C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_5_SDD\x64\Debug\Tema_5_SDD.exe

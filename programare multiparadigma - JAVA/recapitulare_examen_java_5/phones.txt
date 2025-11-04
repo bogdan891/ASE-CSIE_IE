@@ -1,0 +1,5 @@
+iPhone 14 Pro,Apple,6499.99,10,false
+Galaxy S25 Ultra,Samsung,6999.49,95,false
+Pixel 8,Google,4799.0,88,false
+Xiaomi 13 Pro,Xiaomi,3599.89,60,false
+Nokia 3310,Nokia,199.99,100,false

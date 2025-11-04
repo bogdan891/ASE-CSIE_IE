@@ -1,0 +1,25 @@
+Minecraft
+Mojang
+2010
+52.99
+True
+1
+1
+Valorant
+Riot Games
+2015
+0.00
+True
+3
+3
+2
+4
+Candy Crush Saga
+King
+2009
+0.00
+False
+3
+100
+200
+250

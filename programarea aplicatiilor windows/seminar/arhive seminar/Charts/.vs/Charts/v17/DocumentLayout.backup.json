@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stud\\source\\repos\\Charts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C82E9C-E475-43E7-B35D-9C6A4F99A396}|Charts\\Charts.csproj|c:\\users\\stud\\source\\repos\\charts\\charts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C82E9C-E475-43E7-B35D-9C6A4F99A396}|Charts\\Charts.csproj|solutionrelative:charts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C82E9C-E475-43E7-B35D-9C6A4F99A396}|Charts\\Charts.csproj|c:\\users\\stud\\source\\repos\\charts\\charts\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C82E9C-E475-43E7-B35D-9C6A4F99A396}|Charts\\Charts.csproj|solutionrelative:charts\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C82E9C-E475-43E7-B35D-9C6A4F99A396}|Charts\\Charts.csproj|c:\\users\\stud\\source\\repos\\charts\\charts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26C82E9C-E475-43E7-B35D-9C6A4F99A396}|Charts\\Charts.csproj|solutionrelative:charts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C82E9C-E475-43E7-B35D-9C6A4F99A396}|Charts\\Charts.csproj|c:\\users\\stud\\source\\repos\\charts\\charts\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C82E9C-E475-43E7-B35D-9C6A4F99A396}|Charts\\Charts.csproj|solutionrelative:charts\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C82E9C-E475-43E7-B35D-9C6A4F99A396}|Charts\\Charts.csproj|c:\\users\\stud\\source\\repos\\charts\\charts\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C82E9C-E475-43E7-B35D-9C6A4F99A396}|Charts\\Charts.csproj|solutionrelative:charts\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\stud\\source\\repos\\Charts\\Charts\\Form1.cs",
+              "RelativeDocumentMoniker": "Charts\\Form1.cs",
+              "ToolTip": "C:\\Users\\stud\\source\\repos\\Charts\\Charts\\Form1.cs",
+              "RelativeToolTip": "Charts\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwDkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:30:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\stud\\source\\repos\\Charts\\Charts\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "Charts\\FakeDatabase.cs",
+              "ToolTip": "C:\\Users\\stud\\source\\repos\\Charts\\Charts\\FakeDatabase.cs",
+              "RelativeToolTip": "Charts\\FakeDatabase.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:27:15.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\stud\\source\\repos\\Charts\\Charts\\Entities\\Stock.cs",
+              "RelativeDocumentMoniker": "Charts\\Entities\\Stock.cs",
+              "ToolTip": "C:\\Users\\stud\\source\\repos\\Charts\\Charts\\Entities\\Stock.cs",
+              "RelativeToolTip": "Charts\\Entities\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:22:05.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\stud\\source\\repos\\Charts\\Charts\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Charts\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\stud\\source\\repos\\Charts\\Charts\\Entities\\Company.cs",
+              "RelativeToolTip": "Charts\\Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:21:20.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\stud\\source\\repos\\Charts\\Charts\\Form1.cs",
+              "RelativeDocumentMoniker": "Charts\\Form1.cs",
+              "ToolTip": "C:\\Users\\stud\\source\\repos\\Charts\\Charts\\Form1.cs [Design]",
+              "RelativeToolTip": "Charts\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:13:11.249Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

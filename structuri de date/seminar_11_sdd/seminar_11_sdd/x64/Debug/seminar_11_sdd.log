@@ -1,0 +1,13 @@
+﻿  main.c
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_11_sdd\seminar_11_sdd\main.c(67,12): warning C4013: 'calculDifInaltimeSubarbori' undefined; assuming extern returning int
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_11_sdd\seminar_11_sdd\main.c(142,48): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_11_sdd\seminar_11_sdd\main.c(143,48): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_11_sdd\seminar_11_sdd\main.c(144,47): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_11_sdd\seminar_11_sdd\main.c(145,48): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_11_sdd\seminar_11_sdd\main.c(146,50): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_11_sdd\seminar_11_sdd\main.c(147,50): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_11_sdd\seminar_11_sdd\main.c(148,49): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_11_sdd\seminar_11_sdd\main.c(162,44): warning C4013: 'inaltimeArbore' undefined; assuming extern returning int
+main.obj : error LNK2019: unresolved external symbol calculDifInaltimeSubarbori referenced in function inserareInAVL
+main.obj : error LNK2019: unresolved external symbol inaltimeArbore referenced in function main
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_11_sdd\x64\Debug\seminar_11_sdd.exe : fatal error LNK1120: 2 unresolved externals

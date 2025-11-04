@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\seminar_11_sdd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F892BDF7-BE21-44B3-A27E-2FC745A62328}|seminar_11_sdd\\seminar_11_sdd.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\seminar_11_sdd\\seminar_11_sdd\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F892BDF7-BE21-44B3-A27E-2FC745A62328}|seminar_11_sdd\\seminar_11_sdd.vcxproj|solutionrelative:seminar_11_sdd\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\seminar_11_sdd\\seminar_11_sdd\\main.c",
+              "RelativeDocumentMoniker": "seminar_11_sdd\\main.c",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\seminar_11_sdd\\seminar_11_sdd\\main.c*",
+              "RelativeToolTip": "seminar_11_sdd\\main.c*",
+              "ViewState": "AgIAAHMAAAAAAAAAAAASwIQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-12T13:34:32.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

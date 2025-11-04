@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\icustomizabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|solutionrelative:icustomizabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|c:\\users\\bogda\\onedrive\\desktop\\ase-csie\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\comenzipizza\\formtoppinguri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|solutionrelative:formtoppinguri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\comandapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|solutionrelative:comandapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|solutionrelative:topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\formtoppinguri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|solutionrelative:formtoppinguri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC536F3-1107-426F-9216-841E89BE014B}|ComenziPizza.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:39:47.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:39:47.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAIAzwFgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:39:47.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICustomizabil.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\ICustomizabil.cs",
+              "RelativeDocumentMoniker": "ICustomizabil.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\ICustomizabil.cs",
+              "RelativeToolTip": "ICustomizabil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:39:47.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormToppinguri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\FormToppinguri.cs",
+              "RelativeDocumentMoniker": "FormToppinguri.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\FormToppinguri.cs [Design]",
+              "RelativeToolTip": "FormToppinguri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:39:47.689Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormToppinguri.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\FormToppinguri.cs",
+              "RelativeDocumentMoniker": "FormToppinguri.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\FormToppinguri.cs",
+              "RelativeToolTip": "FormToppinguri.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADgv0AAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-09T08:39:47.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:39:47.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComandaPizza.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\ComandaPizza.cs",
+              "RelativeDocumentMoniker": "ComandaPizza.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\ComandaPizza.cs",
+              "RelativeToolTip": "ComandaPizza.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:39:47.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Topping.cs",
+              "RelativeDocumentMoniker": "Topping.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Topping.cs",
+              "RelativeToolTip": "Topping.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:39:47.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\recapitulare\\modele\\ComenziPizza\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:39:47.696Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

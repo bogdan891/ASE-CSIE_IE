@@ -1,0 +1,6 @@
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_studenti\examen_paw_studenti\obj\Debug\examen_paw_studenti.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_studenti\examen_paw_studenti\obj\Debug\examen_paw_studenti.AddEditForm.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_studenti\examen_paw_studenti\obj\Debug\examen_paw_studenti.MainForm.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_studenti\examen_paw_studenti\obj\Debug\examen_paw_studenti.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_studenti\examen_paw_studenti\obj\Debug\examen_paw_studenti.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_studenti\examen_paw_studenti\obj\Debug\examen_paw_studenti.csproj.CoreCompileInputs.cache

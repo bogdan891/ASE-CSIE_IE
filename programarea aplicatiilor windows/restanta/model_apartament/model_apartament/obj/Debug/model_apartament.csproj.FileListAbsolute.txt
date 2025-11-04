@@ -1,0 +1,10 @@
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_apartament\model_apartament\bin\Debug\model_apartament.exe.config
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_apartament\model_apartament\bin\Debug\model_apartament.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_apartament\model_apartament\bin\Debug\model_apartament.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_apartament\model_apartament\obj\Debug\model_apartament.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_apartament\model_apartament\obj\Debug\model_apartament.MainForm.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_apartament\model_apartament\obj\Debug\model_apartament.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_apartament\model_apartament\obj\Debug\model_apartament.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_apartament\model_apartament\obj\Debug\model_apartament.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_apartament\model_apartament\obj\Debug\model_apartament.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_apartament\model_apartament\obj\Debug\model_apartament.pdb

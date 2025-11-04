@@ -1,0 +1,10 @@
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_bicicleta\model_bicicleta\bin\Debug\model_bicicleta.exe.config
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_bicicleta\model_bicicleta\bin\Debug\model_bicicleta.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_bicicleta\model_bicicleta\bin\Debug\model_bicicleta.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_bicicleta\model_bicicleta\obj\Debug\model_bicicleta.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_bicicleta\model_bicicleta\obj\Debug\model_bicicleta.MainForm.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_bicicleta\model_bicicleta\obj\Debug\model_bicicleta.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_bicicleta\model_bicicleta\obj\Debug\model_bicicleta.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_bicicleta\model_bicicleta\obj\Debug\model_bicicleta.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_bicicleta\model_bicicleta\obj\Debug\model_bicicleta.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\restanta\model_bicicleta\model_bicicleta\obj\Debug\model_bicicleta.pdb

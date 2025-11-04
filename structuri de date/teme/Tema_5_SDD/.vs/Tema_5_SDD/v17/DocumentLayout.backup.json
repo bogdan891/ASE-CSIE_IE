@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_5_SDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A387A8-BE5B-4A12-9F67-936B1362DDBE}|Tema_5_SDD\\Tema_5_SDD.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_5_SDD\\Tema_5_SDD\\1056_Georgescu_Ionut_Bogdan_tema5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8A387A8-BE5B-4A12-9F67-936B1362DDBE}|Tema_5_SDD\\Tema_5_SDD.vcxproj|solutionrelative:Tema_5_SDD\\1056_Georgescu_Ionut_Bogdan_tema5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A387A8-BE5B-4A12-9F67-936B1362DDBE}|Tema_5_SDD\\Tema_5_SDD.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_5_SDD\\Tema_5_SDD\\phones.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8A387A8-BE5B-4A12-9F67-936B1362DDBE}|Tema_5_SDD\\Tema_5_SDD.vcxproj|solutionrelative:Tema_5_SDD\\phones.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "phones.txt",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_5_SDD\\Tema_5_SDD\\phones.txt",
+              "RelativeDocumentMoniker": "Tema_5_SDD\\phones.txt",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_5_SDD\\Tema_5_SDD\\phones.txt",
+              "RelativeToolTip": "Tema_5_SDD\\phones.txt",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-26T18:13:58.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1056_Georgescu_Ionut_Bogdan_tema5.c",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_5_SDD\\Tema_5_SDD\\1056_Georgescu_Ionut_Bogdan_tema5.c",
+              "RelativeDocumentMoniker": "Tema_5_SDD\\1056_Georgescu_Ionut_Bogdan_tema5.c",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_5_SDD\\Tema_5_SDD\\1056_Georgescu_Ionut_Bogdan_tema5.c*",
+              "RelativeToolTip": "Tema_5_SDD\\1056_Georgescu_Ionut_Bogdan_tema5.c*",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAQwAMBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-26T14:10:57.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\obj\Debug\Firme.csproj.AssemblyReference.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\obj\Debug\Firme.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\obj\Debug\Firme.AdaugaProdus.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\obj\Debug\Firme.Form1.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\obj\Debug\Firme.Properties.Resources.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\obj\Debug\Firme.csproj.GenerateResource.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\obj\Debug\Firme.csproj.CoreCompileInputs.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\bin\Debug\Firme.exe.config
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\bin\Debug\Firme.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\bin\Debug\Firme.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\obj\Debug\Firme.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\obj\Debug\Firme.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\Firme\obj\Debug\Firme.ModificaProdus.resources

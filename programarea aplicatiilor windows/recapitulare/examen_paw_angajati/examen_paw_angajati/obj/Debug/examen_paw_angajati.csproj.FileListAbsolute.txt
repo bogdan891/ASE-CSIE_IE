@@ -1,0 +1,11 @@
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_angajati\examen_paw_angajati\obj\Debug\examen_paw_angajati.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_angajati\examen_paw_angajati\obj\Debug\examen_paw_angajati.MainForm.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_angajati\examen_paw_angajati\obj\Debug\examen_paw_angajati.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_angajati\examen_paw_angajati\obj\Debug\examen_paw_angajati.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_angajati\examen_paw_angajati\obj\Debug\examen_paw_angajati.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_angajati\examen_paw_angajati\bin\Debug\examen_paw_angajati.exe.config
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_angajati\examen_paw_angajati\bin\Debug\examen_paw_angajati.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_angajati\examen_paw_angajati\bin\Debug\examen_paw_angajati.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_angajati\examen_paw_angajati\obj\Debug\examen_paw_angajati.exe
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_angajati\examen_paw_angajati\obj\Debug\examen_paw_angajati.pdb
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\programarea aplicatiilor windows\recapitulare\examen_paw_angajati\examen_paw_angajati\obj\Debug\examen_paw_angajati.FormAddEdit.resources

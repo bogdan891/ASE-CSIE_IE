@@ -1,0 +1,79 @@
+IR
+1660
+Bucuresti Nord - Iasi
+Yes
+160.00
+4
+80
+80
+80
+70
+R
+11033
+Bucuresti Nord - Brasov
+No
+140.00
+3
+70
+70
+80
+R
+10164
+Bucuresti Nord - Targoviste
+No
+100.00
+3
+80
+80
+80
+IRN
+347
+Bucuresti Nord - Viena
+Yes
+160.00
+6
+15
+50
+80
+80
+80
+15
+R-E
+9257
+Bucuresti Nord - Pitesti
+No
+100.00
+3
+80
+80
+80
+IC
+581
+Bucuresti Nord - Constanta
+Yes
+160.00
+4
+80
+70
+80
+80
+R
+9108
+Targoviste - Bucuresti Nord
+No
+100.00
+3
+150
+150
+150
+IR
+1753
+BucurestiNord - Suceava Nord
+Yes
+140.00
+5
+80
+80
+70
+80
+55

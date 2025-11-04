@@ -1,0 +1,11 @@
+Pizza1,Pufos,15
+Pizza2,Crocant,10
+Pizza3,Cheesy,25
+Pizza4,Cheesy,35
+Pizza5,Cheesy,45
+Pizza6,Pufos,10
+Pizza7,Pufos,12
+Pizza8,Pufos,13
+Pizza9,Crocant,10
+Pizza10,Crocant,15
+

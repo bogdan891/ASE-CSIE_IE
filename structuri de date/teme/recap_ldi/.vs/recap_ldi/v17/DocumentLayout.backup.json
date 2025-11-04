@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\recap_ldi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9565CB87-090D-4655-BF19-156485F3231A}|recap_ldi\\recap_ldi.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\recap_ldi\\recap_ldi\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9565CB87-090D-4655-BF19-156485F3231A}|recap_ldi\\recap_ldi.vcxproj|solutionrelative:recap_ldi\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\recap_ldi\\recap_ldi\\main.c",
+              "RelativeDocumentMoniker": "recap_ldi\\main.c",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\recap_ldi\\recap_ldi\\main.c",
+              "RelativeToolTip": "recap_ldi\\main.c",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAJIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-24T12:39:04.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

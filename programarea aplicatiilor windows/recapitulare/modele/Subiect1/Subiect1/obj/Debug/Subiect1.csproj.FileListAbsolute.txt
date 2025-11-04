@@ -1,0 +1,12 @@
+D:\TutoringPAW\Subiect1\Subiect1\bin\Debug\Subiect1.exe.config
+D:\TutoringPAW\Subiect1\Subiect1\bin\Debug\Subiect1.exe
+D:\TutoringPAW\Subiect1\Subiect1\bin\Debug\Subiect1.pdb
+D:\TutoringPAW\Subiect1\Subiect1\obj\Debug\Subiect1.csproj.AssemblyReference.cache
+D:\TutoringPAW\Subiect1\Subiect1\obj\Debug\Subiect1.Form1.resources
+D:\TutoringPAW\Subiect1\Subiect1\obj\Debug\Subiect1.Properties.Resources.resources
+D:\TutoringPAW\Subiect1\Subiect1\obj\Debug\Subiect1.csproj.GenerateResource.cache
+D:\TutoringPAW\Subiect1\Subiect1\obj\Debug\Subiect1.csproj.CoreCompileInputs.cache
+D:\TutoringPAW\Subiect1\Subiect1\obj\Debug\Subiect1.exe
+D:\TutoringPAW\Subiect1\Subiect1\obj\Debug\Subiect1.pdb
+D:\TutoringPAW\Subiect1\Subiect1\obj\Debug\Subiect1.AdaugaAngajatForm.resources
+D:\TutoringPAW\Subiect1\Subiect1\obj\Debug\Subiect1.ChartForm.resources

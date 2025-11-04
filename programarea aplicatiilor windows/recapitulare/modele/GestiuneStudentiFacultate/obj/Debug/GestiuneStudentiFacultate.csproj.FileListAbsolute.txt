@@ -1,0 +1,16 @@
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\bin\Debug\GestiuneStudentiFacultate.exe.config
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\bin\Debug\GestiuneStudentiFacultate.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\bin\Debug\GestiuneStudentiFacultate.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\obj\Debug\GestiuneStudentiFacultate.csproj.AssemblyReference.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\obj\Debug\GestiuneStudentiFacultate.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\obj\Debug\GestiuneStudentiFacultate.Form1.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\obj\Debug\GestiuneStudentiFacultate.Properties.Resources.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\obj\Debug\GestiuneStudentiFacultate.csproj.GenerateResource.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\obj\Debug\GestiuneStudentiFacultate.csproj.CoreCompileInputs.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\obj\Debug\GestiuneStudentiFacultate.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\obj\Debug\GestiuneStudentiFacultate.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\obj\Debug\GestiuneStudentiFacultate.Form2.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\bin\Debug\WindowsFormsControlLibrary1059.dll
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\bin\Debug\WindowsFormsControlLibrary1059.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\obj\Debug\GestiuneStudentiFacultate.UserControl1.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneStudentiFacultate\obj\Debug\GestiuneStudentiFacultate.csproj.CopyComplete

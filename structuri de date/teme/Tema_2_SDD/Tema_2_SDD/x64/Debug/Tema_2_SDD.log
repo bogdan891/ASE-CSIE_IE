@@ -1,0 +1,10 @@
+﻿  1056_Georgescu_Ionut_Bogdan_tema2.c
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_2_SDD\Tema_2_SDD\1056_Georgescu_Ionut_Bogdan_tema2.c(83,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_2_SDD\Tema_2_SDD\1056_Georgescu_Ionut_Bogdan_tema2.c(102,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_2_SDD\Tema_2_SDD\1056_Georgescu_Ionut_Bogdan_tema2.c(666,65): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_2_SDD\Tema_2_SDD\1056_Georgescu_Ionut_Bogdan_tema2.c(668,59): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_2_SDD\Tema_2_SDD\1056_Georgescu_Ionut_Bogdan_tema2.c(670,72): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_2_SDD\Tema_2_SDD\1056_Georgescu_Ionut_Bogdan_tema2.c(681,21): warning C4047: 'function': 'NodD **' differs in levels of indirection from 'NodD *'
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_2_SDD\Tema_2_SDD\1056_Georgescu_Ionut_Bogdan_tema2.c(681,21): warning C4024: 'deleteNodCycleLDI': different types for formal and actual parameter 1
+C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_2_SDD\Tema_2_SDD\1056_Georgescu_Ionut_Bogdan_tema2.c(674,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Tema_2_SDD.vcxproj -> C:\Users\bogda\OneDrive\Desktop\ASE¬CSIE\anul_2_semestrul_2\structuri de date\seminar\teme\Tema_2_SDD\x64\Debug\Tema_2_SDD.exe

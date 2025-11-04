@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\recapitulare_test2_sdd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E000C9-BABD-4605-BA87-D7E1D0175694}|recapitulare_test2_sdd\\recapitulare_test2_sdd.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\recapitulare_test2_sdd\\recapitulare_test2_sdd\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21E000C9-BABD-4605-BA87-D7E1D0175694}|recapitulare_test2_sdd\\recapitulare_test2_sdd.vcxproj|solutionrelative:recapitulare_test2_sdd\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E000C9-BABD-4605-BA87-D7E1D0175694}|recapitulare_test2_sdd\\recapitulare_test2_sdd.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\recapitulare_test2_sdd\\recapitulare_test2_sdd\\MaxHeap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21E000C9-BABD-4605-BA87-D7E1D0175694}|recapitulare_test2_sdd\\recapitulare_test2_sdd.vcxproj|solutionrelative:recapitulare_test2_sdd\\MaxHeap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaxHeap.c",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\recapitulare_test2_sdd\\recapitulare_test2_sdd\\MaxHeap.c",
+              "RelativeDocumentMoniker": "recapitulare_test2_sdd\\MaxHeap.c",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\recapitulare_test2_sdd\\recapitulare_test2_sdd\\MaxHeap.c",
+              "RelativeToolTip": "recapitulare_test2_sdd\\MaxHeap.c",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAmwNwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T10:43:07.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\recapitulare_test2_sdd\\recapitulare_test2_sdd\\main.c",
+              "RelativeDocumentMoniker": "recapitulare_test2_sdd\\main.c",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\recapitulare_test2_sdd\\recapitulare_test2_sdd\\main.c*",
+              "RelativeToolTip": "recapitulare_test2_sdd\\main.c*",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-27T18:26:20.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

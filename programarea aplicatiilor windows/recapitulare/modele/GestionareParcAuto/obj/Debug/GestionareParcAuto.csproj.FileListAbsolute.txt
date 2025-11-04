@@ -1,0 +1,12 @@
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\bin\Debug\GestionareParcAuto.exe.config
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\bin\Debug\GestionareParcAuto.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\bin\Debug\GestionareParcAuto.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\obj\Debug\GestionareParcAuto.csproj.AssemblyReference.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\obj\Debug\GestionareParcAuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\obj\Debug\GestionareParcAuto.Form1.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\obj\Debug\GestionareParcAuto.Properties.Resources.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\obj\Debug\GestionareParcAuto.csproj.GenerateResource.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\obj\Debug\GestionareParcAuto.csproj.CoreCompileInputs.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\obj\Debug\GestionareParcAuto.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\obj\Debug\GestionareParcAuto.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestionareParcAuto\obj\Debug\GestionareParcAuto.Form2.resources

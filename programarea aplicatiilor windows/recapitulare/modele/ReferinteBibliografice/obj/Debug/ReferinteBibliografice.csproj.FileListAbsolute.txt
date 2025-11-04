@@ -1,0 +1,13 @@
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\bin\Debug\ReferinteBibliografice.exe.config
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\bin\Debug\ReferinteBibliografice.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\bin\Debug\ReferinteBibliografice.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\obj\Debug\ReferinteBibliografice.csproj.AssemblyReference.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\obj\Debug\ReferinteBibliografice.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\obj\Debug\ReferinteBibliografice.AdaugaManual.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\obj\Debug\ReferinteBibliografice.Form1.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\obj\Debug\ReferinteBibliografice.Properties.Resources.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\obj\Debug\ReferinteBibliografice.csproj.GenerateResource.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\obj\Debug\ReferinteBibliografice.csproj.CoreCompileInputs.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\obj\Debug\ReferinteBibliografice.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\obj\Debug\ReferinteBibliografice.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\ReferinteBibliografice\obj\Debug\ReferinteBibliografice.GraficForm.resources

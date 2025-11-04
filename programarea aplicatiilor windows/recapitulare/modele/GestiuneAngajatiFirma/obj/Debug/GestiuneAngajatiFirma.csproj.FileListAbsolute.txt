@@ -1,0 +1,13 @@
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\bin\Debug\GestiuneAngajatiFirma.exe.config
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\bin\Debug\GestiuneAngajatiFirma.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\bin\Debug\GestiuneAngajatiFirma.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.csproj.AssemblyReference.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.Form1.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.Properties.Resources.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.csproj.GenerateResource.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.csproj.CoreCompileInputs.cache
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.exe
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.pdb
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.Form2.resources
+C:\Users\sabin\Desktop\Facultate\AN II\Sem II\PAW\Exercitii pentru EXAMEN\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.Form3.resources

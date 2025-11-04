@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_2_SDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7190393-4650-4AE2-BC56-C3C046523C1D}|Tema_2_SDD\\Tema_2_SDD.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_2_SDD\\Tema_2_SDD\\1056_Georgescu_Ionut_Bogdan_tema2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7190393-4650-4AE2-BC56-C3C046523C1D}|Tema_2_SDD\\Tema_2_SDD.vcxproj|solutionrelative:Tema_2_SDD\\1056_Georgescu_Ionut_Bogdan_tema2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7190393-4650-4AE2-BC56-C3C046523C1D}|Tema_2_SDD\\Tema_2_SDD.vcxproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_2_SDD\\Tema_2_SDD\\bus.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C7190393-4650-4AE2-BC56-C3C046523C1D}|Tema_2_SDD\\Tema_2_SDD.vcxproj|solutionrelative:Tema_2_SDD\\bus.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bus.txt",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_2_SDD\\Tema_2_SDD\\bus.txt",
+              "RelativeDocumentMoniker": "Tema_2_SDD\\bus.txt",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_2_SDD\\Tema_2_SDD\\bus.txt",
+              "RelativeToolTip": "Tema_2_SDD\\bus.txt",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-24T14:22:00.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1056_Georgescu_Ionut_Bogdan_tema2.c",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_2_SDD\\Tema_2_SDD\\1056_Georgescu_Ionut_Bogdan_tema2.c",
+              "RelativeDocumentMoniker": "Tema_2_SDD\\1056_Georgescu_Ionut_Bogdan_tema2.c",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\structuri de date\\seminar\\teme\\Tema_2_SDD\\Tema_2_SDD\\1056_Georgescu_Ionut_Bogdan_tema2.c",
+              "RelativeToolTip": "Tema_2_SDD\\1056_Georgescu_Ionut_Bogdan_tema2.c",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAH4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T14:07:49.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

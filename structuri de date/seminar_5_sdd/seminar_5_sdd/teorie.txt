@@ -1,0 +1,53 @@
+-------------------------------------------------------------------------------------------------------------------
+											SEMINAR 5 - STIVA SI COADA
+-------------------------------------------------------------------------------------------------------------------
+
+(!)
+	Stiva si coada sunt particularitati ale listei simplu inlantuite.
+(!)
+
+-> se aplica principiul FIFO pentru coada;
+-> se aplica principiul LIFO pentru stiva;
+
+-------------------------------------------------------------------------------------------------------------------
+
+			1) STIVA
+
+-------------------------------------------------------------------------------------------------------------------
+
+-> se respecta LIFO;
+
+a.
+-> inserare la sfarsit;
+-> extragere la sfarsit;
+
+b.
+-> inserare la inceput;
+-> extragere la inceput
+
+Denumire metode:
+					-> inserare "push";
+					-> extragere "pop";
+
+-------------------------------------------------------------------------------------------------------------------
+
+			2) COADA
+
+-------------------------------------------------------------------------------------------------------------------
+
+-> se respect FIFO;
+a.
+-> inserare la sfarsit;
+-> extragere la inceput
+
+b.
+-> inserare la inceput;
+-> extragere la sfarsit;
+
+(!) Inserezi si Extragi din acelasi capat (!)
+
+Denumire metode:
+				-> inserare "put;
+				-> extragere "get";
+
+-------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_9_sdd\seminar_9_sdd\main.c(25,48): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_9_sdd\seminar_9_sdd\main.c(26,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_9_sdd\seminar_9_sdd\main.c(84,38): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_9_sdd\seminar_9_sdd\main.c(85,38): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_9_sdd\seminar_9_sdd\main.c(86,36): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_9_sdd\seminar_9_sdd\main.c(87,38): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_9_sdd\seminar_9_sdd\main.c(88,39): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_9_sdd\seminar_9_sdd\main.c(89,40): warning C4305: 'function': truncation from 'double' to 'float'
+  seminar_9_sdd.vcxproj -> C:\Users\bogda\OneDrive\Desktop\ASE-CSIE\anul_2_semestrul_2\structuri de date\seminar\seminar_9_sdd\x64\Debug\seminar_9_sdd.exe

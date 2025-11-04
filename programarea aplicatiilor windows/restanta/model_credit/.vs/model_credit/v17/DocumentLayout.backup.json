@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39A83E80-BA0D-4977-B39D-5684147C0C71}|model_credit\\model_credit.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A83E80-BA0D-4977-B39D-5684147C0C71}|model_credit\\model_credit.csproj|solutionrelative:model_credit\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A83E80-BA0D-4977-B39D-5684147C0C71}|model_credit\\model_credit.csproj|c:\\users\\bogda\\onedrive\\desktop\\ase-csie\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A83E80-BA0D-4977-B39D-5684147C0C71}|model_credit\\model_credit.csproj|solutionrelative:model_credit\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A83E80-BA0D-4977-B39D-5684147C0C71}|model_credit\\model_credit.csproj|c:\\users\\bogda\\onedrive\\desktop\\ase-csie\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\addeditcredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A83E80-BA0D-4977-B39D-5684147C0C71}|model_credit\\model_credit.csproj|solutionrelative:model_credit\\addeditcredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A83E80-BA0D-4977-B39D-5684147C0C71}|model_credit\\model_credit.csproj|c:\\users\\bogda\\onedrive\\desktop\\ase-csie\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\addeditcredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A83E80-BA0D-4977-B39D-5684147C0C71}|model_credit\\model_credit.csproj|solutionrelative:model_credit\\addeditcredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A83E80-BA0D-4977-B39D-5684147C0C71}|model_credit\\model_credit.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A83E80-BA0D-4977-B39D-5684147C0C71}|model_credit\\model_credit.csproj|solutionrelative:model_credit\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEditCredit.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\AddEditCredit.cs",
+              "RelativeDocumentMoniker": "model_credit\\AddEditCredit.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\AddEditCredit.cs",
+              "RelativeToolTip": "model_credit\\AddEditCredit.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADgv2IAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:47:03.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditCredit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\AddEditCredit.cs",
+              "RelativeDocumentMoniker": "model_credit\\AddEditCredit.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\AddEditCredit.cs [Design]",
+              "RelativeToolTip": "model_credit\\AddEditCredit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:42:55.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\MainForm.cs",
+              "RelativeDocumentMoniker": "model_credit\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\MainForm.cs",
+              "RelativeToolTip": "model_credit\\MainForm.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAASwIEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:37:56.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Credit.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\Credit.cs",
+              "RelativeDocumentMoniker": "model_credit\\Credit.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\Credit.cs",
+              "RelativeToolTip": "model_credit\\Credit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:24:12.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\MainForm.cs",
+              "RelativeDocumentMoniker": "model_credit\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_credit\\model_credit\\MainForm.cs [Design]",
+              "RelativeToolTip": "model_credit\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:23:35.541Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

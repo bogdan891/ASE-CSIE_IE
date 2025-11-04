@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DDC88-5CFE-4E32-9354-EB72037A9A89}|seminar_11_paw\\seminar_11_paw.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE7DDC88-5CFE-4E32-9354-EB72037A9A89}|seminar_11_paw\\seminar_11_paw.csproj|solutionrelative:seminar_11_paw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DDC88-5CFE-4E32-9354-EB72037A9A89}|seminar_11_paw\\seminar_11_paw.csproj|c:\\users\\bogda\\onedrive\\desktop\\ase-csie\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7DDC88-5CFE-4E32-9354-EB72037A9A89}|seminar_11_paw\\seminar_11_paw.csproj|solutionrelative:seminar_11_paw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DDC88-5CFE-4E32-9354-EB72037A9A89}|seminar_11_paw\\seminar_11_paw.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7DDC88-5CFE-4E32-9354-EB72037A9A89}|seminar_11_paw\\seminar_11_paw.csproj|solutionrelative:seminar_11_paw\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DDC88-5CFE-4E32-9354-EB72037A9A89}|seminar_11_paw\\seminar_11_paw.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\entities\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7DDC88-5CFE-4E32-9354-EB72037A9A89}|seminar_11_paw\\seminar_11_paw.csproj|solutionrelative:seminar_11_paw\\entities\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DDC88-5CFE-4E32-9354-EB72037A9A89}|seminar_11_paw\\seminar_11_paw.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7DDC88-5CFE-4E32-9354-EB72037A9A89}|seminar_11_paw\\seminar_11_paw.csproj|solutionrelative:seminar_11_paw\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\Entities\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "seminar_11_paw\\Entities\\FakeDatabase.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\Entities\\FakeDatabase.cs",
+              "RelativeToolTip": "seminar_11_paw\\Entities\\FakeDatabase.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwEQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:29:29.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\Entities\\Stock.cs",
+              "RelativeDocumentMoniker": "seminar_11_paw\\Entities\\Stock.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\Entities\\Stock.cs",
+              "RelativeToolTip": "seminar_11_paw\\Entities\\Stock.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:24:06.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "seminar_11_paw\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\Entities\\Company.cs",
+              "RelativeToolTip": "seminar_11_paw\\Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:23:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\Form1.cs",
+              "RelativeDocumentMoniker": "seminar_11_paw\\Form1.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\Form1.cs",
+              "RelativeToolTip": "seminar_11_paw\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:36:53.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\Form1.cs",
+              "RelativeDocumentMoniker": "seminar_11_paw\\Form1.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\seminar\\seminar_11_paw\\seminar_11_paw\\Form1.cs [Design]",
+              "RelativeToolTip": "seminar_11_paw\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:17:26.21Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

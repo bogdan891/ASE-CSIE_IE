@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8E00CC-EBB6-437A-950B-45228F2928A4}|model_apartament\\model_apartament.csproj|c:\\users\\bogda\\onedrive\\desktop\\ase-csie\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8E00CC-EBB6-437A-950B-45228F2928A4}|model_apartament\\model_apartament.csproj|solutionrelative:model_apartament\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8E00CC-EBB6-437A-950B-45228F2928A4}|model_apartament\\model_apartament.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF8E00CC-EBB6-437A-950B-45228F2928A4}|model_apartament\\model_apartament.csproj|solutionrelative:model_apartament\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8E00CC-EBB6-437A-950B-45228F2928A4}|model_apartament\\model_apartament.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\orientare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8E00CC-EBB6-437A-950B-45228F2928A4}|model_apartament\\model_apartament.csproj|solutionrelative:model_apartament\\orientare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8E00CC-EBB6-437A-950B-45228F2928A4}|model_apartament\\model_apartament.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8E00CC-EBB6-437A-950B-45228F2928A4}|model_apartament\\model_apartament.csproj|solutionrelative:model_apartament\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8E00CC-EBB6-437A-950B-45228F2928A4}|model_apartament\\model_apartament.csproj|C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\apartament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8E00CC-EBB6-437A-950B-45228F2928A4}|model_apartament\\model_apartament.csproj|solutionrelative:model_apartament\\apartament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\MainForm.cs",
+              "RelativeDocumentMoniker": "model_apartament\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\MainForm.cs",
+              "RelativeToolTip": "model_apartament\\MainForm.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwCwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:03:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Apartament.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\Apartament.cs",
+              "RelativeDocumentMoniker": "model_apartament\\Apartament.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\Apartament.cs",
+              "RelativeToolTip": "model_apartament\\Apartament.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:48:43.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orientare.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\Orientare.cs",
+              "RelativeDocumentMoniker": "model_apartament\\Orientare.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\Orientare.cs",
+              "RelativeToolTip": "model_apartament\\Orientare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:42:34.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\Camera.cs",
+              "RelativeDocumentMoniker": "model_apartament\\Camera.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\Camera.cs",
+              "RelativeToolTip": "model_apartament\\Camera.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:40:54.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\MainForm.cs",
+              "RelativeDocumentMoniker": "model_apartament\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\ASE-CSIE\\anul_2_semestrul_2\\programarea aplicatiilor windows\\restanta\\model_apartament\\model_apartament\\MainForm.cs [Design]",
+              "RelativeToolTip": "model_apartament\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:40:25.276Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

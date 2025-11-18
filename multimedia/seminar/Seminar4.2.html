@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html>
+<!--http://ase.softmentor.ro/agenda.jpg-->
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Agenda Telefonica</title>
+    <style type="text/css">
+        body {
+            font-family: Tahoma;
+            font-size: 12pt;
+            line-height: 1.2em;
+        }
+
+        h1 {
+            background-color: navy;
+            color: white;
+            padding: 16px;
+            margin: -13px;
+            margin-bottom: 20px;
+        }
+
+        table {
+            border: 1px solid gray;
+            border-collapse: collapse;
+        }
+
+        td, th {
+            border: 1px solid gray;
+            padding: 8px 12px;
+            text-align: center;
+        }
+
+        caption {
+            font-weight: bold;
+            border: 1px solid gray;
+            padding: 8px 12px;
+            background-color: #E0E0E0;
+        }
+
+        thead, th, tfoot, td {
+            font-weight: bold;
+            background-color: #EEEEEE;
+        }
+
+        form {
+            border: 1px solid gray;
+            padding: 8px;
+            background-color: #EEEEEE;
+        }
+
+        input {
+            margin: 5px;
+        }
+
+        table {
+            float: left;
+            width: 60%;
+        }
+
+        form {
+            float: right;
+            width: 30%;
+        }
+
+        label {
+            display: block;
+            width: 40%;
+            float: left;
+            clear: both;
+        }
+
+        input {
+            width: 50%;
+            float: right;
+        }
+    </style>
+
+    <script type="text/javascript">
+        function adauga() {
+            // 1️⃣ selectăm tbody-ul corect
+            const tbody = document.getElementById('tbd');
+            const rand = document.createElement('tr');
+
+            // 2️⃣ funcție auxiliară care creează o celulă dintr-un input
+            function addCell(selector) {
+                const td = document.createElement('td');
+                const input = document.querySelector(selector);
+                td.textContent = input.value.trim();
+                rand.appendChild(td);
+                input.value = ''; // resetăm inputul după adăugare
+            }
+
+            addCell('#nume');
+            addCell('#prenume');
+            addCell('#nrtelefon');
+
+            // 3️⃣ adăugăm rândul în tabel
+            tbody.appendChild(rand);
+
+            // 4️⃣ actualizăm numărul de persoane
+            const nrPersoane = tbody.querySelectorAll('tr').length;
+            const footCell = document.querySelector('tfoot td');
+            footCell.textContent = `Numar Persoane: ${nrPersoane}`;
+        }
+
+        function aplicatie() {
+            const btnAdd = document.getElementById('btnAdd');
+            btnAdd.addEventListener('click', adauga);
+        }
+
+        document.addEventListener('DOMContentLoaded', aplicatie);
+    </script>
+</head>
+<body>
+    <h1>Agenda Telefonica</h1>
+    <table>
+        <caption>Lista Persoane</caption>
+        <thead>
+            <tr>
+                <th>Nume</th>
+                <th>Prenume</th>
+                <th>Numar Telefon</th>
+            </tr>
+        </thead>
+
+        <!-- ✅ adăugăm un id pe tbody -->
+        <tbody id="tbd">
+            <tr>
+                <td>Popescu</td>
+                <td>Andrei</td>
+                <td>0735786922</td>
+            </tr>
+            <tr>
+                <td>Marinescu</td>
+                <td>Elena</td>
+                <td>0736842122</td>
+            </tr>
+            <tr>
+                <td>Mira</td>
+                <td>Vasile</td>
+                <td>0744986245</td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <td colspan="3">Numar Persoane: 3</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <form>
+        <label for="nume">Nume:</label>
+        <input id="nume" />
+        <label for="prenume">Prenume:</label>
+        <input id="prenume" />
+        <label for="nrtelefon">Numar Telefon:</label>
+        <input id="nrtelefon" />
+
+        <input type="button" id="btnAdd" value="Adauga" />
+    </form>
+</body>
+</html>

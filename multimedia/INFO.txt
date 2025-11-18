@@ -1,0 +1,21 @@
+							**Multimedia**
+
+Materiale: online.ase.ro | ase.softmentor.ro -> Multimedia -> Teme abordate
+Email: cristian.ionita@ase.ro
+
+-> **EXAMEN**
+
+		~ 40% Proba de verificare;
+
+-> **SEMINAR**
+
+		~ 50% Test practic - S5 + Activitate Seminar;
+
+		~ 10% Proiect Individual - Tema alocata de prof., Prezentare S13 - S14;
+
+(!) Conditii de promovare minim 5 / 10 la tot
+
+-> Teme: Program Desenare, Editor Imagini, Player Video, 
+		Editor Grafic Vectorial(SVG), Joc - Asteroid, Vizualizare Date;
+-> Poate pica una dintre temele astea;
+-> Mai multe detalii in pptx;

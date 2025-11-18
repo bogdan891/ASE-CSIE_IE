@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seminar 7</title>
+    <style>
+        body {
+            background-color: gray;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        canvas {
+            border: 2px solid red;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin-left: -400px;
+            margin-top: -300px;
+        }
+    </style>
+
+    <script>
+        let canvas, context, W, H, image, mx = 0, my = 0;
+
+        function draw() {
+            context.drawImage(image, 0, 0);
+            context.fillStyle = 'red';
+            context.font = 'bold 36px Arial';
+            context.fillText(`${mx} / ${my}`, 10, 40);
+
+            let imgData = context.getImageData(0, 0, W, H);
+            let v = imgData.data;
+
+            for (let y = 0; y < H; y++)
+                for (let x = 0; x < W; x++) {
+                    let i = y * W * 4 + x * 4;
+                    if (x == mx || y == my) {
+                        v[i + 0] = 255;
+                    }
+
+                    let d = Math.sqrt((x - mx) * (x - mx) + (y - my) * (y - my));
+                    if (d < 100) {
+                        v[i + 3] = 255 - d;
+                    } else {
+                        v[i + 0] = v[i + 1] = v[i + 2] = (v[i + 0] + v[i + 1] + v[i + 2]) / 3;
+                        v[i + 3] = 10 + Math.random() * 150;
+                    }
+                }
+
+            context.putImageData(imgData, 0, 0);
+        }
+
+        function app() {
+            canvas = document.querySelector('canvas');
+            context = canvas.getContext('2d', { willReadFrequently: true });
+
+            W = canvas.width;
+            H = canvas.height;
+
+            image = document.createElement('img');
+            image.src = 'penguins.jpg';
+            image.addEventListener('load', e => {
+                setInterval(draw, 20);
+            });
+
+            document.addEventListener('mousemove', e => {
+                mx = Math.round(e.x - canvas.getBoundingClientRect().x);
+                my = Math.round(e.y - canvas.getBoundingClientRect().y);
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', app);
+    </script>
+</head>
+
+<body>
+    <canvas width="800" height="600"></canvas>
+</body>
+
+</html>

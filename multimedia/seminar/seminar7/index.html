@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style type="text/css">
+        canvas {
+            border: 1px solid black;
+        }
+    </style>
+    <script type="text/javascript">
+        function aplicatie() {
+            const canvas = document.querySelector("canvas");
+            const W = canvas.width;
+            const H = canvas.height;
+            const context = canvas.getContext("2d");
+
+            function grafic_h(V) {
+                const n = V.length;
+                const w = W / n;
+                const f = 0.9 * H / Math.max(...V);
+                for (let i = 0; i < n; i++) {
+                    const wi = w * 0.8;
+                    const hi = V[i] * f;
+                    const xi = i * w + 0.1 * w;
+                    const yi = H - hi;
+                    context.rect(xi, yi, wi, hi);
+                }
+                context.fillStyle = "hsla(200,100%,50%,0.8)";
+                context.strokeStyle = "darkblue";
+                context.lineWidth = 2;
+                context.fill();
+                context.stroke();
+            }
+
+            function grafic(V) {
+                const n = V.length;
+                const w = W / (n - 1);
+                const f = 0.9 * H / Math.max(...V);
+                context.moveTo(0, H);
+                for (let i = 0; i < n; i++) {
+
+                    const xi = i * w;
+                    const yi = H - V[i] * f;
+                    context.lineTo(xi, yi);
+                }
+                context.lineTo(W, H);
+
+                context.fillStyle = "hsla(200,100%,50%,0.8)";
+                context.strokeStyle = "darkblue";
+                context.lineWidth = 2;
+                context.fill();
+                context.stroke();
+            }
+
+            grafic([6, 2, 4, 8]);
+
+            /*
+            context.fillStyle = "red";
+            context.strokeStyle = "blue";
+            context.lineWidth = 10;
+
+            context.fillRect(W / 2, H / 2, W / 2, H / 2);
+            context.strokeRect(W / 2, H / 2, W / 2 - 5, H / 2 - 5);
+
+            context.fillStyle = "green";
+            context.font = "bold 32px Tahoma";
+            context.textBaseline = "middle";
+            context.textAlign = "center";
+            context.fillText("Ana are mere", 0.75 * W, 0.75 * H);
+            context.moveTo(W / 2, H / 2);
+            context.lineTo(0, H / 2);
+            context.lineTo(W / 4, 0);
+
+            context.closePath();
+            context.fill();
+            context.stroke();
+            */
+        }
+        document.addEventListener("DOMContentLoaded", aplicatie);
+    </script>
+</head>
+
+<body>
+    <canvas width="800" height="500"></canvas>
+</body>
+
+</html>

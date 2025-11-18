@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discipline si Note</title>
+
+    <style type="text/CSS">
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            padding: 24px;
+        }
+
+        h1 {
+            font-size: 20pt;
+            color: darkslateblue;
+            text-align: center;
+        }
+
+        select, button, input {
+            color: darkslateblue; 
+            padding: 8px 10px; 
+            border: 1px solid darkslateblue; 
+            border-radius: 6px; 
+        }
+
+        label {
+            color: darkslateblue;
+        }
+
+        .controls { 
+            display: flex; 
+            gap: 12px; 
+            align-items: center; 
+            flex-wrap: wrap; 
+            margin-bottom: 16px; 
+        }
+    </style>
+
+    <script type="text/javascript">
+        function add(obj) {
+            const ul = document.getElementById('list');
+            let disc, nota;
+            if (obj) {
+                disc = obj.disciplina;
+                nota = obj.nota;
+            } else {
+                const select = document.getElementById('discSelect');
+                const input = document.getElementById('inputNota');
+
+                disc = select.value;
+                nota = Number(input.value.trim());
+
+                if (!nota || nota < 1 || nota > 10) {
+                    alert('Introduceți o nota valida!');
+                    return;
+                }
+                input.value = '';
+            }
+
+            const li = document.createElement('li');
+                li.textContent = `${disc} - Nota: ${nota}`;
+                ul.appendChild(li);
+
+                if (nota < 5) {
+                    li.style.color = 'red';
+                }
+
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            add({ disciplina: 'POO', nota: 4 });
+            const btn = document.getElementById('btnAdd');
+            btn.addEventListener('click', () => add(null));
+
+            const ul = document.getElementById('list');
+            ul.addEventListener('click', (e) => {
+                if (e.target.tagName === 'LI') {
+                    e.target.remove();
+                }
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <h1>Multimedia Lucrare Seminar - Subiectul 1</h1>
+
+    <select name="disciplina" id="discSelect">
+        <option value="Multimedia">Multimedia</option>
+        <option value="Java">Java</option>
+        <option value="POO">POO</option>
+    </select>
+
+    <label>Nota: <input type="text" id="inputNota" placeholder="De la 1 la 10"></label>
+
+    <button id="btnAdd">Adauga</button>
+
+    <ul id="list"></ul>
+</body>
+
+</html>

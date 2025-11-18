@@ -1,0 +1,39 @@
+		**MULTIMEDIA - SEMINAR 1**
+
+-> clientul comunica cu serverul prin requests de tip http;
+-> exemplu de URL: hhtp://server.com/test.html;
+-> exemplu HTTP: Get test.html;
+-> User Agent: Chrome;
+-> doc. HTML => raspunsul de la server;
+-> 200 OK;
+-> content-type: text/html;
+-> limbaje: **HMTL**, **CSS**, **Java Script**;
+			 V		     V                   V
+			CE?             CUM?     INTERACTIVITATE
+-> reprezentare graf ca text:
+		A -; B - A; C - A; D - C; E - C;
+-> reprezentare HTML:
+		<tip>cap</tip> -> TAG;
+
+		ex: <A>
+				<B>
+					...
+				</B>
+			</A>;
+
+ex: A(atribut n = "B") -; B - A; Ion - A;
+<A n = "B">
+	<B></B>
+	Ion
+</A>
+
+------------------------------------------------------------------------------------------------------------
+			STRUCTURA GENERALA A UNUI DOC HTML
+------------------------------------------------------------------------------------------------------------
+<html>
+	<head>
+			<meta charset="utf-8">
+			<title>First Page!</title>
+	</head>
+	<body></body>
+</html>

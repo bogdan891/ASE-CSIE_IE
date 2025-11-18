@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Discipline si Note</title>
+
+    <style type="text/CSS">
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 24px;
+        }
+
+        h1 {
+            color: darkgreen;
+            font-size: 20px;
+            margin-bottom: -10px;
+            text-align: center;
+        }
+
+        .controls {  
+            gap: 12px; 
+            align-items: center; 
+            margin-bottom: 16px; 
+        }
+
+        select, input, button {
+            color: darkslateblue; 
+            padding: 8px 10px; 
+            border: 1px solid #cbd5e1; 
+            border-radius: 6px; 
+        }
+
+        button {
+            border: none;
+            cursor: pointer;
+        }
+
+        table {
+            margin-top: 20px;
+            border-collapse: collapse;
+            width: 420px; 
+            max-width: 100%; 
+            background: white;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px 10px;
+            text-align: center;
+        }
+    </style>
+
+    <script type="text/javascript">
+        const discipline = [
+            { "disciplina": "POO", "nota": 3 },
+            { "disciplina": "Java", "nota": 10 },
+            { "disciplina": "POO", "nota": 9 },
+        ];
+
+        function upload() {
+            const tbd = document.getElementById('tbd');
+            tbd.innerHTML = '';
+
+            discipline.forEach(x => {
+                const row = document.createElement('tr');
+                const tdDisc = document.createElement('td');
+                const tdNota = document.createElement('td');
+
+                tdDisc.textContent = x.disciplina;
+                tdNota.textContent = x.nota;
+
+                row.appendChild(tdDisc);
+                row.appendChild(tdNota);
+
+                tbd.appendChild(row);
+            });
+        }
+
+        function add() {
+            const select = document.getElementById('disciplinaSelect');
+            const inputNota = document.getElementById('nota');
+
+            const disc = select.value;
+            const notaN = Number(inputNota.value.trim());
+
+            discipline.push({
+                disciplina: disc, nota: notaN
+            });
+
+            upload()
+
+            inputNota.value = '';
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            upload();
+            
+            const btn = document.getElementById('addBtn');
+            btn.addEventListener('click', add);
+            
+            const table = document.querySelector('table');
+            table.addEventListener('click', (e) => {
+                if (e.target.tagName === 'TD') {
+                    e.target.style.backgroundColor = 'yellow';
+                }
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <h1>Multimedia – Lucrare seminar (Subiectul 3)</h1>
+
+    <select name="Selecteaza disciplina" id="disciplinaSelect">
+        <option value="Multimedia">Multimedia</option>
+        <option value="Java">Java</option>
+        <option value="POO">POO</option>
+    </select>
+
+    <label>
+        Nota:
+        <input id="nota" type="text" placeholder="ex. 10" />
+    </label>
+
+    <button id="addBtn">Adaugă</button>
+
+    <table>
+        <thead>
+            <th>Disciplina</th>
+            <th>Nota</th>
+        </thead>
+        <tbody id="tbd">
+        </tbody>
+    </table>
+</body>
+
+</html>

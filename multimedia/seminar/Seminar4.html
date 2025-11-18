@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Incrementare</title>
+    <script type="text/javascript">
+        function incrementeaza(e) {
+            const paragraf = document.querySelector('p');
+            let valoare = parseInt(paragraf.innerText);
+            valoare += 1;
+            paragraf.innerText = valoare;
+            const paragrafNou = document.createElement('p');
+            paragrafNou.innerText = `Am modificat valoarea in ${valoare}`;
+            document.querySelector('body').append(paragrafNou);
+        }
+
+        function aplicatie() {
+            const btn = document.querySelector('input')
+            btn.addEventListener('click', incrementeaza);
+        }
+
+        document.addEventListener('DOMContentLoaded', aplicatie)
+    </script>
+</head>
+<body>
+    <p>1</p>
+    <input type="button" value="Incrementeaza" />
+</body>
+</html>

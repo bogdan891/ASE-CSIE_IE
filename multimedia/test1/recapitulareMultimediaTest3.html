@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Epidemie</title>
+
+    <style>
+        body {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            padding: 24px;
+        }
+
+        .controls {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+        }
+
+        h1 {
+            font-size: 20pt;
+            color: darkslateblue;
+            text-align: center;
+        }
+
+        table {
+            margin: 20px;
+            border-collapse: collapse;
+        }
+
+        thead,
+        tfoot {
+            background-color: blanchedalmond;
+        }
+
+        th,
+        td {
+            border: 2px solid purple;
+            padding: 8px 10px;
+            text-align: center;
+        }
+
+        #btnMax {
+            margin-left: 20px;
+        }
+
+        button {
+            color: darkslateblue;
+            padding: 8px 10px;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        form {
+            border: 1px solid purple;
+            padding: 8px;
+            background-color: #EEEEEE;
+            width: 10%;
+            margin: 20px;
+        }
+
+        label {
+            display: block;
+        }
+
+        input {
+            margin: 5px;
+            display: block;
+        }
+    </style>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const btnAdd = document.getElementById('btnAdd');
+            btnAdd.addEventListener('click', () => {
+                const tbd = document.getElementById('tbd');
+                const row = document.createElement('tr');
+
+                function addCell(selector) {
+                    const td = document.createElement('td');
+                    const input = document.querySelector(selector);
+                    td.textContent = input.value.trim();
+                    row.appendChild(td);
+                    input.value = '';
+                }
+
+                addCell('#judet'); addCell('#cazTotal'); addCell('#inc');
+
+                tbd.appendChild(row);
+            });
+
+            const btnMax = document.getElementById('btnMax');
+            btnMax.addEventListener('click', () => {
+                const valori = document.querySelectorAll('#tbd tr td:last-child');
+                let max = 0;
+                valori.forEach(x => {
+                    const val = parseFloat(x.textContent);
+                    if (!Number.isNaN(val) && val > max) max = val;
+                });
+
+                let tfoot = document.querySelector('tfoot');
+                if (!tfoot) {
+                    tfoot = document.createElement('tfoot');
+                    document.querySelector('table').appendChild(tfoot); // atașează la tabel
+                }
+                tfoot.innerHTML =
+                    `<tr><td colspan="3">Incidenta maxima: <strong>${max.toFixed(2)}</strong></td></tr>`;
+            });
+
+            const table = document.getElementById('tbd');
+            table.addEventListener('click', (e) => {
+                if (e.target.tagName === 'TD') {
+                    const row = e.target.parentElement;
+                    row.style.color = 'green';
+                }
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <h1>Multimedia Lucrare Seminar - Subiectul 3</h1>
+
+    <table>
+        <thead>
+            <th>Judet</th>
+            <th>Cazuri Totale</th>
+            <th>Incidenta cumulata</th>
+        </thead>
+        <tbody id="tbd">
+            <tr>
+                <td>Salaj</td>
+                <td>2988</td>
+                <td>5.10</td>
+            </tr>
+            <tr>
+                <td>Cluj</td>
+                <td>9677</td>
+                <td>4.87</td>
+            </tr>
+            <tr>
+                <td>Timis</td>
+                <td>9473</td>
+                <td>4.29</td>
+            </tr>
+            <tr>
+                <td>Alba</td>
+                <td>5227</td>
+                <td>4.17</td>
+            </tr>
+            <tr>
+                <td>Bucuresti</td>
+                <td>36296</td>
+                <td>3.79</td>
+            </tr>
+        </tbody>
+        <tfoot>
+
+        </tfoot>
+    </table>
+
+    <form>
+        <label for="judet">Judet</label> <input type="text" id="judet">
+        <label for="cazTotal">Cazuri Totale</label> <input type="text" id="cazTotal">
+        <label for="inc">Incidenta cumulata</label> <input type="text" id="inc">
+        <button id="btnAdd" type="button">Adauga</button>
+    </form>
+
+    <button id="btnMax">Maxim</button>
+</body>
+
+</html>

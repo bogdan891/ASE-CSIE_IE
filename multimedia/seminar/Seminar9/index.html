@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script>
+        let imagine, canvas, context, W, H;
+
+        function deseneaza() {
+            context.drawImage(imagine, 0, 0);
+
+            let imageData = context.getImageData(0, 0, W, H);
+            let p = calculHistograma(imageData);
+            p = p.map(x => x / (W * H));
+            pc = p.reduce((rezultat, valoare) => {
+                if(rezultat.length > 0) {
+                    valoare += rezultat[rezultat.length - 1];
+                }
+                rezultat.push(valoare);
+                return rezultat;
+            }, []);
+
+            let v = imageData.data;
+            for(let i = 0; i < W * H * 4; i += 4) {
+                let valoare = Math.round((v[i + 0] + v[i + 1] + v[i + 2]) / 3);
+                v[i + 0] = v[i + 1] = v[i + 2] = Math.round(pc[valoare] * 255);
+            
+            }
+            context.putImageData(imageData, 0, 0);
+
+            console.log(p, p.reduce((a, b) => a + b), W * H);
+            grafic(p, 10);
+            grafic(pc, 300);
+            let p2 = calculHistograma(imageData);
+            grafic(p2, 600);                                                                                                            
+        }
+
+        function grafic(p, startX) {
+            const startY = 10;
+            const gH = 200;
+            const f = 0.9 * gH / Math.max(...p);
+            context.fillStyle = 'rgba(255, 255, 255, 0.8)';
+            context.fillRect(startX, startY, 256, gH);
+
+            context.fillStyle = 'rgba(255, 0, 0, 0.8)';
+            for (let i = 0; i < p.length; i++) {
+                let h = Math.round(p[i] * f);
+                context.fillRect(startX + i, startY + gH - h, 1, h);
+            }
+
+        }
+
+        function calculHistograma(imageData) {
+            let v = imageData.data;
+            let p = [];
+
+            for (let y = 0; y < 256; y++) {
+                    p.push(0);
+            }
+
+            for (let i = 0; i < W * H * 4; i += 4) {
+                let valoare = Math.round((v[i + 0] + v[i + 1] + v[i + 2]) / 3);
+                p[valoare]++;
+            }
+
+            return p;
+        }
+
+        function aplicatie() {
+            canvas = document.querySelector('canvas');
+            context = canvas.getContext('2d');
+
+            imagine = document.createElement('img');
+            imagine.src = 'hills.jpg';
+            imagine.addEventListener('load', e => {
+                document.body.append(imagine);
+                W = canvas.width = imagine.naturalWidth;
+                H = canvas.height = imagine.naturalHeight;
+                deseneaza();
+            });
+            canvas.addEventListener('click',e=>{
+                const url = canvas.toDataURL('image/jpeg',0.9);
+                const link = document.createElement('a');
+                link.download = 'histograma.jpg';
+                link.href = url;
+                link.click();
+            })
+        }
+
+        document.addEventListener('DOMContentLoaded', aplicatie);
+    </script>
+
+    <title>Seminar 9</title>
+</head>
+<body> 
+    <canvas>
+
+    </canvas>
+</body>
+</html>

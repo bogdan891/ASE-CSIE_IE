@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        let canvas, context, W, H, image, w, h, pieces = [], selectedIndex = -1, mx = 0, my = 0, dx = 0, dy = 0;
+
+        function desenare() {
+            context.drawImage(image, 0, 0);
+            context.fillStyle = 'rgba(255, 255, 255, 0.7)';
+            context.fillRect(0, 0, W, H);
+
+            for (let p of pieces) {
+                context.drawImage(image, p.sx, p.sy, w, h, p.x, p.y, w, h);
+
+                if (selectedIndex >= 0 && p === pieces[selectedIndex]) {
+                    context.strokeStyle = 'blue';
+                    context.lineWidth = 4;
+                    context.strokeRect(p.x, p.y, w, h);
+                }
+
+                if (p.gata) {
+                    context.fillStyle = 'rgba(0, 255, 0, 0.3)';
+                    context.fillRect(p.x, p.y, w, h);
+                }
+            }
+        }
+
+        function app() {
+            canvas = document.querySelector('canvas');
+            context = canvas.getContext('2d');
+
+            image = document.createElement('img');
+            image.src = 'img.jpg'
+
+            image.addEventListener('load', () => {
+                W = image.naturalWidth;
+                H = image.naturalHeight;
+                canvas.width = W;
+                canvas.height = H;
+
+                const n = 4;
+                w = W / n;
+                h = H / n;
+                for (let i = 0; i < n; i++) {
+                    for (let j = 0; j < n; j++) {
+                        pieces.push({ sx: i * w, sy: j * h, x: w * i + Math.random() * 40, y: h * j + Math.random() * 40 });
+                    }
+                }
+                setInterval(desenare, 30);
+            });
+
+            document.addEventListener('mousedown', mouseDown);
+            document.addEventListener('mouseup', mouseUp);
+            document.addEventListener('mousemove', mouseMove);
+        }
+
+
+        function mouseDown(e) {
+            let isInPiece = (piece, x, y) => {
+                return x >= piece.x && x <= piece.x + w && y >= piece.y && y <= piece.y + h;
+            }
+
+            for (let i = pieces.length - 1; i >= 0; i--) {
+                if (isInPiece(pieces[i], mx, my)) {
+                    dx = mx - pieces[i].x;
+                    dy = my - pieces[i].y;
+                    pieces.push(pieces.splice(i, 1)[0]);
+                    selectedIndex = pieces.length - 1;
+                    return;
+                }
+            }
+
+            selectedIndex = -1;
+        }
+
+        function mouseUp(e) {
+            if (selectedIndex >= 0) {
+                let p = pieces[selectedIndex];
+                if (Math.sqrt((p.x - p.sx) ** 2 + (p.y - p.sy) ** 2) < 30) {
+                    p.x = p.sx;
+                    p.y = p.sy;
+                    p.gata = true;
+                }
+            }
+            selectedIndex = -1;
+        }
+
+        function mouseMove(e) {
+            mx = e.x - canvas.getBoundingClientRect().x;
+            my = e.y - canvas.getBoundingClientRect().y;
+
+            if (selectedIndex >= 0) {
+                pieces[selectedIndex].x = mx - dx;
+                pieces[selectedIndex].y = my - dy;
+            }
+        }
+        document.addEventListener('DOMContentLoaded', app);
+    </script>
+</head>
+
+<body>
+    <canvas></canvas>
+</body>
+
+</html>

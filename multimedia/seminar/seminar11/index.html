@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editor SVG</title>
+
+    <style>
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            font-family: Verdana;
+        }
+
+        h1 {
+            background-color: lightblue;
+            margin: 0;
+            padding: 8px;
+        }
+
+        svg {
+            background-color: lightgray;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            cursor: crosshair;
+        }
+
+        svg rect {
+            fill: gray;
+            fill-opacity: 0.5;
+            stroke: navy;
+            stroke-opacity: 0.8;
+        }
+
+        #selectie {
+            fill: transparent;
+            stroke-width: 3;
+            stroke: green;
+            stroke-dasharray: 3 3;
+        }
+    </style>
+
+    <script>
+        let elemente, editor, selectie;
+        let mx = 0, my = 0;
+        let x0 = 0, y0 = 0;
+
+        function aplicatie() {
+            editor = document.querySelector('#editor');
+            elemente = document.querySelector('#elemente');
+            selectie = document.querySelector('#selectie');
+
+            selectie.style.display = 'none';
+
+            editor.addEventListener('mouseup', mouseup);
+            editor.addEventListener('mousedown', mousedown);
+            editor.addEventListener('mousemove', mousemove);
+
+            function mousedown(e) {
+                selectie.style.display = 'block';
+                x0 = mx;
+                y0 = my;
+                setareCoordonate(selectie, x0, x0, y0, y0);
+            }
+
+            function mouseup(e) {
+                selectie.style.display = 'none';
+                let newRect = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+
+                setareCoordonate(newRect, x0, mx, y0, my);
+                elemente.appendChild(newRect);
+            }
+
+            function mousemove(e) {
+                mx = Math.round(e.x - editor.getBoundingClientRect().x);
+                my = Math.round(e.y - editor.getBoundingClientRect().y);
+
+                setareCoordonate(selectie, x0, mx, y0, my);
+                document.querySelector(' #editor text').textContent = `x: ${mx}, y: ${my}`;
+            }
+
+            function setareCoordonate(r, x1, x2, y1, y2) {
+                r.setAttribute('x', Math.min(x1, x2));
+                r.setAttribute('y', Math.min(y1, y2));
+                r.setAttribute('width', Math.abs(x2 - x1));
+                r.setAttribute('height', Math.abs(y2 - y1));
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', aplicatie);
+    </script>
+</head>
+
+<body>
+    <h1>Editor SVG</h1>
+    <svg id="editor">
+        <g id="elemente">
+            <rect x="120" y="50" , width="80" height="60"></rect>
+            <rect x="150" y="70" , width="80" height="60"></rect>
+        </g>
+        <rect id="selectie" , x="10" y="70" width="60" , height="50" />
+        <text x="10" y="20"></text>
+    </svg>
+</body>
+
+</html>

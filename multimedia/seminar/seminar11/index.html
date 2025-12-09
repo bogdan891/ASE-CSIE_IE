@@ -46,12 +46,17 @@
             stroke: green;
             stroke-dasharray: 3 3;
         }
+
+        .selectat {
+            fill: orange;
+        }
     </style>
 
     <script>
         let elemente, editor, selectie;
         let mx = 0, my = 0;
         let x0 = 0, y0 = 0;
+        let elementSelectat = null;
 
         function aplicatie() {
             editor = document.querySelector('#editor');
@@ -77,6 +82,13 @@
 
                 setareCoordonate(newRect, x0, mx, y0, my);
                 elemente.appendChild(newRect);
+
+                newRect.addEventListener('contextmenu', function (e) {
+                    e.preventDefault();
+                    elementSelectat = this;
+                    [...document.querySelectorAll('*')].forEach(el => el.classList.remove('selectat'));
+                    elementSelectat.classList.add('selectat');
+                });
             }
 
             function mousemove(e) {
@@ -103,8 +115,6 @@
     <h1>Editor SVG</h1>
     <svg id="editor">
         <g id="elemente">
-            <rect x="120" y="50" , width="80" height="60"></rect>
-            <rect x="150" y="70" , width="80" height="60"></rect>
         </g>
         <rect id="selectie" , x="10" y="70" width="60" , height="50" />
         <text x="10" y="20"></text>

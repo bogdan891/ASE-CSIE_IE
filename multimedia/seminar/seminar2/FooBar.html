@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Seminar 2</title>
+    </head>
+    <body>
+        <style>
+            p { color: red; font-weight: bold; }
+            span { text-decoration: underline;}
+        </style>
+        <span>Ana</span>
+        <span>are</span>
+        <p>
+            <strong>trei</strong>
+            mere
+        </p>
+        <ul>
+            <li>ala</li>
+            <li>bala</li>
+            <li>
+                <ol>
+                    <li>Foo</li>
+                    <li>Bar</li>
+                </ol>
+            </li>
+        </ul>
+        <table border="1">
+            <style>
+                table { border-collapse: collapse; height: 100%; overflow: scroll;}
+                th { background-color: pink; }
+                td { background-color: lightblue; }
+                caption {font-size: 20px; font-weight: 200; font-family: monospace;}
+            </style>
+            <caption>Lista studenti</caption>
+            <thead>
+                <tr>
+                    <th>Cod</th>
+                    <th>Nume</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ion</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Maria</td>
+            </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2">Numar studenti: 2</td>
+                </tr>
+            </tfoot>
+        </table>
+        <br>
+        <form action="http://xxx.yyy" method="post">
+            <input type="text" name="nume" placeholder="Ana">
+            <input id="id_chk" type="checkbox" name="checkbox-input">
+            <label for="id_chk">Test</label>
+            <input id="id_rad1" type="radio" name="radio-input">
+            <label for="id_rad1">Foo</label>
+            <input id="id_rad2" type="radio" name="radio-input">
+            <label for="id_rad2">Bar</label>
+            <br> <br>
+            <input type="submit" name="btnT" name="submit-button" value="Trimite">
+        </form>
+    </body>
+</html>

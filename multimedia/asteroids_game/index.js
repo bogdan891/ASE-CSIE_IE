@@ -10,6 +10,8 @@ function application() {
     const nameInputContainer = document.getElementById('name_input_container');
     const btnSave = document.getElementById('btn_save_score');
     const playerName = document.getElementById('player_name');
+    const btnStop = document.getElementById('btn_stop');
+    btnStop.classList.add('hidden');
 
     let gameOver;
 
@@ -23,6 +25,17 @@ function application() {
         update_stats();
         overContainer.classList.add('hidden');
         game_loop();
+    });
+
+
+    btnStop.addEventListener('click', function() {
+        ship.lives = 0;
+        update_stats();
+        gameOver = true;
+        overContainer.classList.remove('hidden');
+        btnStart.classList.add('hidden');
+        nameInputContainer.classList.remove('hidden');
+        displayHighScores();
     });
 
     function update_stats() {
@@ -134,7 +147,11 @@ function application() {
     }
 
     function game_loop() {
-        if (gameOver === true) return;
+        btnStop.classList.remove('hidden');
+        if (gameOver === true) {
+            context.clearRect(0, 0, canvas.width, canvas.height);
+            return;
+        }
 
         context.clearRect(0, 0, canvas.width, canvas.height);
 
@@ -288,7 +305,17 @@ function application() {
     btnSave.addEventListener('click', function() {
         const name = playerName.value || 'unknown';
         let highScores = JSON.parse(localStorage.getItem('asteroids_scores')) || [];
-        highScores.push({ name: name, score: ship.score });
+        const existingEntryIndex = highScores.findIndex(entry => entry.name === name);
+        if (existingEntryIndex !== -1) {
+            if (ship.score > highScores[existingEntryIndex].score) {
+                highScores[existingEntryIndex].score = ship.score;
+                alert('Well done! A new record of yourself!');
+            } else {
+                alert('You did not beat your previous score.');
+            }
+        } else {
+            highScores.push({ name: name, score: ship.score });
+        }
         highScores.sort((a, b) => b.score - a.score);
         highScores = highScores.slice(0, 5);
         localStorage.setItem('asteroids_scores', JSON.stringify(highScores));
@@ -296,6 +323,8 @@ function application() {
         alert('Score saved! Lets play again.');
         location.reload();
     });
+
+    
 }
 
 document.addEventListener('DOMContentLoaded', application);

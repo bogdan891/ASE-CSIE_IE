@@ -35,6 +35,12 @@ body {
     position: absolute;
     top: 20px;
     left: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 10px 15px;
+    border: 1px solid #555;
+    border-radius: 10px;
+    z-index: 100;
+    pointer-events: auto;
 }
 
 .player_status_container p {

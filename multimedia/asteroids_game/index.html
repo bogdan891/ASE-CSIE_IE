@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asteroids Game - Proiect Multimedia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="game_ui">
+        <div class="player_status_container">
+            <p>Score: <span id="score_val">0</span></p>
+            <p>Lives: <span id="lives_val">3</span></p>
+        </div>
+
+        <div id="highscores_container">
+            <h2>High Scores</h2>
+            <ol id="highscore_list"></ol>
+        </div>
+
+        <canvas id="game"></canvas>
+
+        <div id="over_container" class="hidden">
+            <div class="message">
+                <h2 class="title">Asteroids Game</h2>
+                <button id="btn_start">Start</button>
+                <div id="name_input_container" class="hidden">
+                    <input type="text" id="player_name" placeholder="Enter your name">
+                    <button id="btn_save_score">Save your score</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>

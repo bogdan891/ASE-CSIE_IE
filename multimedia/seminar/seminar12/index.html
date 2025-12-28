@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seminar 12</title>
+
+    <script>
+        let canvas, context, W, H, video;
+        let videoMic;
+        let px = 10, py = 10, pw = 160, ph = 90, pbh = 30;
+        let pbw;
+        function desenare() {
+            context.drawImage(video, 0, 0, W, H);
+            context.drawImage(videoMic, 0, 0, W, H, px, py, pw, ph);
+
+            context.fillStyle = "rgba(0,0,0,0.5)";
+            context.fillRect(0, H - pbh, W, pbh);
+
+            context.fillStyle = "rgba(255, 0 , 0, 0.5)";
+            pbw = video.duration ? (video.currentTime / video.duration) * W : 0;
+            context.fillRect(0, H - pbh, pbw, pbh);
+            requestAnimationFrame(desenare);
+        }
+
+        function aplicatie() {
+            canvas = document.querySelector("canvas");
+            context = canvas.getContext("2d");
+            W = canvas.width;
+            H = canvas.height;
+
+            videoMic = document.createElement("video");
+            videoMic.src = "rio.mp4";
+            videoMic.loop = true;
+            videoMic.muted = true;
+            videoMic.play();
+
+            document.body.append(videoMic);
+
+            video = document.querySelector("video");
+            desenare();
+        }
+
+        document.addEventListener("DOMContentLoaded", aplicatie);
+    </script>
+</head>
+<body>
+    <video src="dog.mp4" controls="controls" loop="loop"></video>
+    <canvas width="640" height="360" style="border: 1px solid red"></canvas>
+</body>
+</html>

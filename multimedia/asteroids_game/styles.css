@@ -52,6 +52,7 @@ body {
     padding: 15px;
     border: 1px solid #555;
     border-radius: 10px;
+    min-width: 200px;
 }
 
 #highscores_container h2 {
@@ -62,8 +63,19 @@ body {
     padding: 5px;
 }
 
-#highscore_list {
+#highscores_list {
     list-style-position: inside;
+    padding: 0;
+    width: 100%;
+    margin-top: 10px;
+}
+
+#highscores_list li {
+    font-size: 18px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #555;
+    padding-bottom: 5px;
+    white-space: nowrap;
 }
 
 #over_container {
@@ -72,7 +84,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(0, 0, 0, 0.8);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -81,10 +93,11 @@ body {
 
 .message {
     text-align: center;
-    padding: 50px;
+    padding: 40px;
     border: 2px solid white;
     background-color: black;
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    position: relative;
 }
 
 .title {

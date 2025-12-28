@@ -24,6 +24,7 @@ function application() {
         ship.score = 0;
         update_stats();
         overContainer.classList.add('hidden');
+        btnStop.classList.remove('hidden');
         game_loop();
     });
 
@@ -147,7 +148,6 @@ function application() {
     }
 
     function game_loop() {
-        btnStop.classList.remove('hidden');
         if (gameOver === true) {
             context.clearRect(0, 0, canvas.width, canvas.height);
             return;
@@ -257,6 +257,14 @@ function application() {
                 ship.y = canvas.height / 2;
             }
 
+             if (ship.lives <= 0) {
+                gameOver = true;
+                overContainer.classList.remove('hidden');
+                btnStart.classList.add('hidden');
+                nameInputContainer.classList.remove('hidden');
+                return;
+            }
+
             context.beginPath();
             context.arc(asteroid.x, asteroid.y, asteroid.radius, 0, Math.PI * 2);
             
@@ -272,14 +280,6 @@ function application() {
             context.fillText(asteroid.life, asteroid.x, asteroid.y);
 
         });
-
-        if (ship.lives <= 0) {
-            gameOver = true;
-            overContainer.classList.remove('hidden');
-            btnStart.classList.add('hidden');
-            nameInputContainer.classList.remove('hidden');
-            return;
-        }
 
         drawShip();
 
@@ -309,7 +309,7 @@ function application() {
         if (existingEntryIndex !== -1) {
             if (ship.score > highScores[existingEntryIndex].score) {
                 highScores[existingEntryIndex].score = ship.score;
-                alert('Well done! A new record of yourself!');
+                alert('Well done! You beat your previous score!');
             } else {
                 alert('You did not beat your previous score.');
             }

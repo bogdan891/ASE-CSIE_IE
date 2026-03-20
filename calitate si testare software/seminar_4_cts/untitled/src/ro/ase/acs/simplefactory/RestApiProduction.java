@@ -1,0 +1,8 @@
+package ro.ase.acs.simplefactory;
+
+public class RestApiProduction implements RestApi{
+    @Override
+    public void connect() {
+        System.out.println("Connecting to the production API...");
+    }
+}

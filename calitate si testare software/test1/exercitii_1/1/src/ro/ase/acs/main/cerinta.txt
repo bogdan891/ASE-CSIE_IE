@@ -1,0 +1,60 @@
+Cerința 1 (Pachet: ro.ase.acs.task1)
+
+Sistemul de semaforizare al orașului este gestionat de un Hub Central de Date.
+Din motive de sincronizare critică și pentru a evita coliziunile de date între intersecții,
+arhitectura sistemului interzice categoric existența a două puncte de control diferite.
+Orice modul al orașului (Poliție, Ambulanță, Transport Public) care încearcă să
+acceseze setările de trafic trebuie să primească exact aceeași referință de
+memorie a Hub-ului, garantând astfel că toți citesc aceeași stare a orașului
+în orice milisecundă.
+
+Cerința 2 (Pachet: ro.ase.acs.task2)
+
+Primăria vrea să digitalizeze eliberarea Tichetelor de Acces.
+Există tichete de tip "Elev", "Pensionar" și "Turist". Angajatul
+de la ghișeu nu trebuie să cunoască logica de calcul a prețului sau
+baza de date din spate pentru fiecare tip în parte. El introduce
+doar un cod de categorie într-un terminal, iar terminalul îi livrează
+obiectul Tichet corespunzător, gata configurat. Tot procesul de instanțiere a
+acestor obiecte specifice trebuie centralizat într-o singură entitate responsabilă cu
+"fabricarea" lor rapidă.
+
+Cerința 3 (Pachet: ro.ase.acs.task3)
+
+Departamentul de Urbanism a creat un model digital pentru un "Cartier Model"
+(conține liste de clădiri, parcuri, utilități și senzori de poluare).
+Pentru a simula rapid extinderea orașului în 10 zone noi fără a reface
+manual toată structura complexă (care implică mii de obiecte în liste),
+aceștia au nevoie de un mecanism care să "înmulțească" cartierul existent.
+Este esențial ca fiecare cartier nou să fie o entitate separată în memorie;
+dacă se adaugă un parc într-o copie, acesta nu trebuie să apară în modelul original.
+
+Cerința 4 (Pachet: ro.ase.acs.task4)
+
+Locuitorii își pot configura propriul Pachet de Servicii Publice.
+Aceștia pot opta pentru: colectare selectivă, iluminat inteligent,
+parcare rezervată, acces bibliotecă sau monitorizare video. Firma de
+software vrea să evite confuzia creată de constructorii care cer 5-6
+argumente booleene, deoarece ordinea lor este greu de reținut. Se dorește o
+interfață care să permită cetățeanului să "bifeze" opțiunile dorite una câte
+una, iar la final să primească contractul finalizat. Dacă o opțiune nu este
+bifată, ea rămâne dezactivată implicit.
+
+Cerința 5 (Pachet: ro.ase.acs.task5)
+
+CyberCity se extinde în două sectoare: Sectorul High-Tech și
+Sectorul Rezidențial. Deși ambele sectoare au nevoie de un sistem de
+"Gestiune Energie", natura sursei de energie diferă: High-Tech folosește
+Panouri Solare, iar cel Rezidențial folosește Generator Eolian.
+Infrastructura principală trebuie să definească doar protocolul
+de "Activare Energie", dar să lase libertatea fiecărui administrator
+de sector să specifice ce tip de unitate energetică se instanțiază
+efectiv în momentul construcției rețelei locale.
+
+Cerința 6 (Pachet: ro.ase.acs.task6)
+
+Sistemul are nevoie de un punct unic de acces numit RegistruServicii.
+Acesta trebuie să permită recuperarea unor obiecte de tip Serviciu.
+Dacă cineva cere serviciul 'POLITIE' de două ori, trebuie să primească exact
+aceeași referință de memorie. Dacă serviciul cerut nu există încă, registrul
+îl creează pe loc, îl salvează intern și îl returnează.

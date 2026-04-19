@@ -1,0 +1,16 @@
+📱 Tema: Fabrica de SmartPhone-uri "Gemini Mobile"
+Cerința 1
+
+Compania are nevoie de un modul care să gestioneze conexiunea cu serverul central de update-uri. Deoarece resursele de rețea sunt limitate, este critic ca în toată aplicația de sistem a telefonului să existe o singură instanță a managerului de conexiune, pentru a nu deschide porturi inutile către server.
+Cerința 2
+
+Fabrica produce trei modele de bază: Ieftin, Normal și Premium. Se dorește realizarea unui modul care să permită instanțierea acestor telefoane pe baza unui Enum primit ca parametru. Clientul (magazinul) nu trebuie să știe cum se asamblează procesorul sau ecranul, ci doar să ceară un "Telefon Ieftin" și să primească obiectul gata făcut.
+Cerința 3
+
+Pentru a economisi timp în procesul de testare, inginerii vor să creeze un "Telefon de Test" complet configurat (cu toate aplicațiile, setările de luminozitate și contactele salvate). Deoarece configurarea manuală durează 20 de minute, ei vor un buton care să multiplice acest telefon de test deja configurat pentru a livra rapid 100 de unități identice către laboratorul de probe.
+Cerința 4
+
+Utilizatorul își poate cumpăra un telefon personalizat. El poate alege: carcasă de sticlă, protecție ecran, memorie extinsă, husă cadou sau asigurare. Dacă utilizatorul nu alege nimic, telefonul vine în varianta standard (fără accesorii). Se dorește un modul care să permită construcția pas cu pas a acestei comenzi complexe, fără a avea un constructor cu 10 parametri.
+Cerința 5
+
+Compania decide să deschidă fabrici în două regiuni: China și Germania. Deși ambele produc telefoane, standardele de calitate diferă: fabrica din China folosește ecrane LCD, iar cea din Germania folosește OLED. Se dorește o structură în care procesul de "Lansare Telefon" să fie general, dar decizia concretă privind tipul de ecran și baterie folosit să fie lăsată la latitudinea fiecărei fabrici în parte (subclasele).
